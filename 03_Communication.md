@@ -29,4 +29,4 @@ This is the lab where I got phd from : https://web.eecs.umich.edu/~wlasecki/crom
 If you are a phd student and does not have a website, that's a big problem.
 (Once you have websites and then I can start to link those from mine --> which gives you extra visibility --> extra opportunities)
 # Online Meeting Platforms
-- Our team uses Microsoft Teams for conducting online meetings next time.
+- Our team uses Microsoft Teams as the standard platform for conducting online meetings.
