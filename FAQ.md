@@ -5,7 +5,7 @@ Here you go! https://github.com/echo-lab/assets/tree/master/Lab-Logo
 ### I have to write an IRB. Can somebody help?
 Here are some samples that we have already.  https://drive.google.com/drive/folders/1VnXQDlUQ8Mz4N3BR-fvukO43bpIMbBgj?usp=sharing Once you complete and get it approved, make sure that you post your IRB protocol and other documents as well.
 ### Where is the lab?
-1133, KW II, 220 Gilbert St., Blacksburg, VA 24060
+Room 3311, 220 Gilbert St., Blacksburg, VA 24060
 You need a key to access the lab though.
 ### Where do we find Lab meeting agenda?
 https://drive.google.com/drive/folders/1Z-3jMGyImdKIksV8SBAbFsyy2WA732iZ
