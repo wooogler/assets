@@ -1,4 +1,12 @@
 # HCI Conferences that we target
+Echolab's target conferences for planning and participation include the following:
+This information serves as a reference for future conference planning and engagement strategies.
+CSCW (Computer Supported Cooperative Work)
+CSCW (Computer Supported Cooperative Work)
+UIST (User Interface Software and Technology)
+UIST (User Interface Software and Technology)
+CHI (Conference on Human Factors in Computing Systems)
+CHI (Conference on Human Factors in Computing Systems)
 # What to expect in academic conferences
 # How to prepare for an academic confernece
 # How to participate in academic confernece in various ways (more than getting a full paper accepted)
