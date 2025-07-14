@@ -1,5 +1,4 @@
 # HCI Conferences that we target
-Echolab is specifically focusing on the CHI, UIST, and CSCW conferences for their research submissions. These conferences are renowned for their emphasis on human-computer interaction and provide an excellent platform for presenting innovative research and networking with leading experts in the field.
 # What to expect in academic conferences
 # How to prepare for an academic confernece
 # How to participate in academic confernece in various ways (more than getting a full paper accepted)
