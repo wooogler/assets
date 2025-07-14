@@ -1,4 +1,8 @@
 # HCI Conferences that we target
+Echolab's target conferences for research dissemination and engagement include the following key events:
+- CHI (Conference on Human Factors in Computing Systems): A premier venue for presenting research on human-computer interaction, where innovative ideas and practices are shared among professionals in the field.
+- UIST (User Interface Software and Technology): Focused on the latest advancements in user interface design and technology, UIST serves as a platform for showcasing cutting-edge research and applications.
+- CSCW (Computer Supported Cooperative Work): This conference emphasizes the social and collaborative aspects of computing, providing insights into how technology can enhance teamwork and communication.
 # What to expect in academic conferences
 # How to prepare for an academic confernece
 # How to participate in academic confernece in various ways (more than getting a full paper accepted)
