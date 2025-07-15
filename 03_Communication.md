@@ -8,7 +8,7 @@ I would recommend the following (and keep recommending you)
 - Use the channel more than direct message (unless there needs to be a reason why it needs 1:1 conversation)
 Note that slack is not good for archival. All the messages are going to go away at some point. If you would like to archive the conversation use something else (Email).
 # Zoom
-Echolab uses Zoom(https://zoom.us) as the standard platform for conducting online meetings. Install the software and be familiar with it. It has many convenience functions (sharing screen, whiteboard, recording, etc.)
+Echolab uses Microsoft Teams as the standard platform for conducting online meetings. Install the software and be familiar with it. It has many convenience functions (sharing screen, whiteboard, recording, etc.)
 # Google Drive
 We are going to use Google Drive for ANY kinds of documents that we share. (mostly Google Docs) Sorry I don't do Microsoft Words anymore and sending emails. Each project has one Google Drive Folder. Each one of you will have one stand-up report document.
 # GitHub
