@@ -15,4 +15,4 @@
 
 # Funding Support for Conference Attendance
 
-- Echolab provides funding support for conference attendance if a team member is the first author presenting a paper at a major HCI conference such as CHI, CSCW, or UIST.
+- Echolab provides funding support for conference attendance if a team member is the first author presenting at a major HCI conference such as CHI, CSCW, and UIST. This includes both paper and poster presentations.
