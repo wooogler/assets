@@ -103,7 +103,10 @@ https://github.com/echo-lab/assets/blob/master/Writing/AcademicWriting.md
 
 We have been collecting some questions from anyone in the lab who conducted interviews in this document. Use this document to see what kinds of questions are asked This means that you should also contribute after the interview! (Take and give!) https://docs.google.com/document/d/1UMBYQGmli2kwo0fcNlXQ8QhsBQLX3Mxl-X4PpH3fUpw/edit?usp=sharing
 
-## Sang Won Lee (echolab director)
+## File: FAQ.md
+Path: FAQ > Sang Won Lee (echolab director)
+
+Echolab is supervised by Sang Won Lee, an Associate Professor in Computer Science at Virginia Tech.
 
 ### Sang's office phone number?
 
