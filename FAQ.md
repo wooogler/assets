@@ -8,7 +8,7 @@ Here you go! https://github.com/echo-lab/assets/tree/master/Lab-Logo
 
 ### I have to write an IRB. Can somebody help?
 
-Here are some samples that we have already.  https://drive.google.com/drive/folders/1VnXQDlUQ8Mz4N3BR-fvukO43bpIMbBgj?usp=sharing Once you complete and get it approved, make sure that you post your IRB protocol and other documents as well.
+Here are some samples that we have already, which are available in Adnan's DRIVE folder. Once you complete and get it approved, make sure that you post your IRB protocol and other documents as well.
 
 ### Where is the lab?
 
@@ -104,6 +104,7 @@ https://github.com/echo-lab/assets/blob/master/Writing/AcademicWriting.md
 We have been collecting some questions from anyone in the lab who conducted interviews in this document. Use this document to see what kinds of questions are asked This means that you should also contribute after the interview! (Take and give!) https://docs.google.com/document/d/1UMBYQGmli2kwo0fcNlXQ8QhsBQLX3Mxl-X4PpH3fUpw/edit?usp=sharing
 
 ## File: FAQ.md
+
 Path: FAQ > Sang Won Lee (echolab director)
 
 Echolab is supervised by Sang Won Lee, an Associate Professor in Computer Science at Virginia Tech.
