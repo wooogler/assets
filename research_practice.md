@@ -1,6 +1,5 @@
 # Academic Reading #
 
-This section is to add information about academic reading. 
 
 # Academic Writing #
 
