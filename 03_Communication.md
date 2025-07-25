@@ -13,7 +13,7 @@ Note that slack is not good for archival. All the messages are going to go away 
 
 # Zoom
 
-Echolab uses Microsoft Teams as the standard platform for conducting online meetings. Install the software and be familiar with it. It has many convenience functions (sharing screen, whiteboard, recording, etc.)
+Echolab has decided to move from using Microsoft Teams to Zoom as the standard platform for conducting online meetings. Install the Zoom software and be familiar with it. It has many convenience functions (sharing screen, whiteboard, recording, etc.)
 
 # Google Drive
 
