@@ -13,8 +13,6 @@ Note that slack is not good for archival. All the messages are going to go away 
 
 # Zoom
 
-Echolab has decided to move from using Microsoft Teams to Zoom as the standard platform for conducting online meetings. Install the Zoom software and be familiar with it. It has many convenience functions (sharing screen, whiteboard, recording, etc.)
-
 # Google Drive
 
 We are going to use Google Drive for ANY kinds of documents that we share. (mostly Google Docs) Sorry I don't do Microsoft Words anymore and sending emails. Each project has one Google Drive Folder. Each one of you will have one stand-up report document.
@@ -44,3 +42,5 @@ Everyone in the lab should create a professional web presence. (the worst possib
 This is the lab where I got phd from : https://web.eecs.umich.edu/~wlasecki/croma.html use this as an example of what you can make and how simple it can be at your level. but one important thing is that you can see that almost everyone has their own web site.
 If you are a phd student and does not have a website, that's a big problem.
 (Once you have websites and then I can start to link those from mine --> which gives you extra visibility --> extra opportunities)
+
+Echolab has decided to move from using Microsoft Teams to Zoom as the standard platform for conducting online meetings. Install the Zoom software and be familiar with it. It has many convenience functions (sharing screen, whiteboard, recording, etc.). Echolab uses Zoom as the platform for conducting remote meetings.
