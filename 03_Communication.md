@@ -13,6 +13,8 @@ Note that slack is not good for archival. All the messages are going to go away 
 
 # Zoom
 
+Echolab has decided to move from using Microsoft Teams to Zoom as the standard platform for conducting online meetings. Install the Zoom software and be familiar with it. It has many convenience functions (sharing screen, whiteboard, recording, etc.)
+
 # Google Drive
 
 We are going to use Google Drive for ANY kinds of documents that we share. (mostly Google Docs) Sorry I don't do Microsoft Words anymore and sending emails. Each project has one Google Drive Folder. Each one of you will have one stand-up report document.
