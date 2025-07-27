@@ -23,8 +23,6 @@ Relatedly, I expect Ph.D. students will stay research active over the summer reg
 - Let's face it; why would you want to work 34 hours a week and are guaranteed not to get a Ph.D.? Is this something that you want to do? Doing a Ph.D. is not for everyone. It is for something for those who would have other types of rewarding functions along the way.
 - Some may ask me how many hours do I have to work as a Ph.D. student. That is the wrong question. Also, some people ask me how many years does it take to get a Ph.D.? The right question is, do you want to get a Ph.D.? How quickly do you want to get it? And how many publications do you want to have by the time that you graduate? What kinds of career goals do you have? How many papers does the one who already accomplished what you wanted when they graduated? (Hint, they got to be in the same research areas.) If you have answers to those questions, please figure out how many hours you think you have to work to accomplish your goal.
 
-In addition to considering your publication goals, it's important to think about how many papers you should read. While there is no definitive answer, the more you read, the better. It is generally suggested that reading at least a few papers per week is desirable, with some weeks requiring 10-20 papers, especially when writing sections like related work or discussion in a paper. If you are not sure, set X with some non-zero number and see if you are satisfied with the progress. I will be happy to discuss this in person.
-
 ## Time management
 
 - This is purely for research hours- Not the hours you spend on other activities (etc., GRA, GTA, coursework, services). X hours in the previous section
