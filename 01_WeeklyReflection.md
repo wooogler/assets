@@ -8,10 +8,10 @@ Anybody doing lab research should submit a reflection report ONCE a week. There 
 - The practice emphasizes transparency and accountability within the team.
 
 # Examples
+
 - Here is Emily Altland's (M.S. 2024) example is my favorite! [link](https://docs.google.com/document/d/170PYIIH5NotZxWtVvJBOmBCSJKPpd04te-xEcTdDO3A/edit?tab=t.0)
-- Here's mine. (*I am a human too; sometimes I miss it)
-   - 2024-Current: [link](https://docs.google.com/document/d/1N-ZmQmT8xEsg505AimIq-J7GCQ3U4YikXkNrF3saGZs/)
-   - 2019-2023: [link](https://docs.google.com/document/d/1EO2XXR6bZZyXOKme2mdsm88cS127w5XA_Rot2PvszxE/edit#heading=h.48f1tl4mn89e)
+- Here's mine. (*I am a human too; sometimes I miss it)- 2024-Current: [link](https://docs.google.com/document/d/1N-ZmQmT8xEsg505AimIq-J7GCQ3U4YikXkNrF3saGZs/)
+- 2019-2023: [link](https://docs.google.com/document/d/1EO2XXR6bZZyXOKme2mdsm88cS127w5XA_Rot2PvszxE/edit#heading=h.48f1tl4mn89e)
 
 ## Guildline
 
