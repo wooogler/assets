@@ -1,19 +1,19 @@
-
 # Write Research Questions For Every Paper
 
 When formulating research questions (RQs), it is essential to ensure that they help readers anticipate the research contribution. This includes understanding what new knowledge will be gained, predicting the methods that will be used to achieve the research goals, and comprehending the significance, purpose, or problem that the research addresses. It is crucial that RQs are purpose-driven and not solely centered around the use of tools or technology. The focus should be on the intended outcome or purpose of the technology, rather than the technology itself. For example, instead of asking how a new technology can be used, frame the question around how it can achieve a specific goal or facilitate a process. This practice aids in setting clear expectations for the research outcomes and methodologies.
 
 # Best Practices for Writing Abstracts
 
-The following content explains what should be included in the abstract. 
+An effective practice for writing abstracts for research papers involves an initial drafting process. This can be achieved by copying the first sentence of each chapter and pasting them together. This method serves as a starting point for the abstract, ensuring that it reflects the role of each chapter. It also means that the first sentence of each chapter should effectively summarize its content.
 
-1. **Context and Significance**: Begin with one or two sentences explaining the context and significance of the study.
-2. **Problem Statement**: Include one or two sentences detailing the problem being addressed or studied.
-3. **Study Goal**: Provide one or two sentences explaining the goal of the study, which may involve describing what was done (e.g., using technologies to solve a specific issue).
-4. **Methodology**: Describe the method in one or two sentences.
-5. **Results**: Summarize the (anticipated) results in one or two sentences. This should be the most interesting AND significant takeaway of your study result. 
-6. **Implications/Contributions** (optional): It is desirable to include one or two sentences explaining the implications or contributions of the work to the world. (Now that we know what we found from this study, what does it mean to the world, i.e., people, researchers, future self). 
+The following content explains what should be included in the abstract.
 
+- **Context and Significance**: Begin with one or two sentences explaining the context and significance of the study.
+- **Problem Statement**: Include one or two sentences detailing the problem being addressed or studied.
+- **Study Goal**: Provide one or two sentences explaining the goal of the study, which may involve describing what was done (e.g., using technologies to solve a specific issue).
+- **Methodology**: Describe the method in one or two sentences.
+- **Results**: Summarize the (anticipated) results in one or two sentences. This should be the most interesting AND significant takeaway of your study result.
+- **Implications/Contributions** (optional): It is desirable to include one or two sentences explaining the implications or contributions of the work to the world. (Now that we know what we found from this study, what does it mean to the world, i.e., people, researchers, future self).
 
 # How to write an Introduction
 
@@ -23,14 +23,13 @@ The following content explains what should be included in the abstract.
 
 # Writing Discussions for Research Papers
 
-- Check out the following external resources for guidance on writing discussion sections for research papers, particularly in the context of Human-Computer Interaction (HCI) studies.  
-    1. Lennart Nacke's guide on writing a strong discussion section for CHI papers.  https://lennartnacke.com/how-to-write-a-strong-discussion-section-for-your-chi-paper  
-     2. D. Buschek's Medium article on writing better discussions for HCI studies. https://dbuschek.medium.com/how-to-write-better-discussions-for-your-hci-study-be851092f351 This practice suggests that Echolab values leveraging external expert advice to enhance the quality of their research outputs.
- 
+- Check out the following external resources for guidance on writing discussion sections for research papers, particularly in the context of Human-Computer Interaction (HCI) studies.- Lennart Nacke's guide on writing a strong discussion section for CHI papers.  https://lennartnacke.com/how-to-write-a-strong-discussion-section-for-your-chi-paper
+- D. Buschek's Medium article on writing better discussions for HCI studies. https://dbuschek.medium.com/how-to-write-better-discussions-for-your-hci-study-be851092f351 This practice suggests that Echolab values leveraging external expert advice to enhance the quality of their research outputs.
+
 # LLM-Based Generative AI Usage Guidelines for Proofreading
 
-- It is acceptable to use a large language model like ChatGPT for proofreading. While it is recommended to proofread their papers thoroughly before submission, those who use generative AI should ensure that the use of GPT does not alter the meaning or nuance of the original expression or disrupt the consistency of terms used. 
-- If ChatGPT introduces unnecessary complexity or uses overly sophisticated language, the changes should be rejected. Making it easy to read and understand is more important than making it sound like you are intelligent. 
-- Proofreading should be done paragraph by paragraph rather than in large chunks. This is because you have to carefully review the amount of content after each revision. 
+- It is acceptable to use a large language model like ChatGPT for proofreading. While it is recommended to proofread their papers thoroughly before submission, those who use generative AI should ensure that the use of GPT does not alter the meaning or nuance of the original expression or disrupt the consistency of terms used.
+- If ChatGPT introduces unnecessary complexity or uses overly sophisticated language, the changes should be rejected. Making it easy to read and understand is more important than making it sound like you are intelligent.
+- Proofreading should be done paragraph by paragraph rather than in large chunks. This is because you have to carefully review the amount of content after each revision.
 - Generative AI should NOT be used for proofreading quotes from interviewees or open-ended responses from participants.
 - Do NOT use ChatGPT to generate any portion of the entire initial draft. Write on your own first.
