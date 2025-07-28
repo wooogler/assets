@@ -11,6 +11,20 @@
 
 # HCI Conferences that we target
 
+Echolab targets top-tier HCI conferences for submissions, with a primary focus on ACM CHI for any type of HCI work. Specific conferences and journals are selected based on the research topic, including
+
+- ACM CSCW for collaboration or social computing
+- ACM UIST for innovative technology or UI for HCI
+- ACM Creativity and Cognition for creativity and art
+- ACM ICER or SIGCSE for computer science education
+- IEEE VL/HCC for programming environments or computational thinking
+- ACM CHIWORK for workplace-related topics
+- ACM DIS for design-related topics
+- ACM TOCHI (journal) for significant contributions too lengthy for conference papers
+- ACM GROUP as a smaller version of ACM CSCW
+- ACM CUI for conversational user interfaces
+- IJHCI/IJHCS for co-authors not benefiting from conference papers.
+
 # What to expect in academic conferences
 
 # How to prepare for an academic confernece
