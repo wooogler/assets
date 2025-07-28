@@ -2,7 +2,7 @@
 
 Anybody doing lab research should submit a reflection report ONCE a week. There is no separate submission system. Instead, it is one Google Docs document that you maintain on your own. The idea of a standup meeting (or scrum/agile development) comes from the software engineering industry. You get together and talk about what you did the day before and what you will do on the particular day. For us, because we don't get together in the same place at the same time (maybe we should?), we do this virtually, submitting a brief report in Google Docs every week.
 
-- These reports are intended for public communication among peers, not private communication between individual team members and managers. The content of these reports should include reflections on past activities and plans for future tasks. It is mandatory for team members to submit these reports on a weekly basis, even if no progress has been made. In such cases, the report should provide an explanation, such as unexpected barriers or reflections on the lack of progress. This practice is designed to emphasize transparency and accountability within the team.
+- These reports are intended for public communication among peers, not private communication between individual team members and managers.
 - (Self-reflection)Team members should use the reports to reflect on past activities and plan future tasks.
 - Reports must be submitted weekly, even if no progress has been made. In such cases, the report should include an explanation, such as unexpected barriers or reflections on the lack of progress.
 - The practice emphasizes transparency and accountability within the team.
