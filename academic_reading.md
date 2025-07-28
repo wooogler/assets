@@ -1,3 +1,0 @@
-# Academic Reading
-
-placeholder
