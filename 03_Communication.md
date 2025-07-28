@@ -44,4 +44,4 @@ This is the lab where I got phd from : https://web.eecs.umich.edu/~wlasecki/crom
 If you are a phd student and does not have a website, that's a big problem.
 (Once you have websites and then I can start to link those from mine --> which gives you extra visibility --> extra opportunities)
 
-Echolab has decided to move from using Microsoft Teams to Zoom as the standard platform for conducting online meetings. Install the Zoom software and be familiar with it. It has many convenience functions (sharing screen, whiteboard, recording, etc.). Echolab uses Zoom as the platform for conducting remote meetings.
+Echolab use Zoom as the standard platform for conducting online meetings. Install the Zoom software and be familiar with it. It has many convenience functions (sharing screen, whiteboard, recording, etc.).
