@@ -33,3 +33,22 @@ The following content explains what should be included in the abstract.
 - Proofreading should be done paragraph by paragraph rather than in large chunks. This is because you have to carefully review the amount of content after each revision.
 - Generative AI should NOT be used for proofreading quotes from interviewees or open-ended responses from participants.
 - Do NOT use ChatGPT to generate any portion of the entire initial draft. Write on your own first.
+
+# Topic Sentence
+
+1. **Topic Sentence Practice**:
+   - The first sentence of any paragraph should ideally be a topic sentence, clearly stating the main idea or focus of that paragraph.
+   - If not used as the first sentence, ensure there is a compelling reason (e.g., storytelling), and consider writing the topic sentence initially and removing it in the final draft.
+   - Use visual distinctions (e.g., bold, underlined, or highlighted) for topic sentences during drafting to enhance clarity and focus for easy skimming by collaborators.
+
+2. **Drafting Process**:
+   - After creating a rough outline, write the topic sentences for each paragraph before developing the paragraph bodies.
+   - Topic sentences should be simple initially and can be refined later.
+   - Review topic sentences to ensure they convey the intended message, flow together, and cover all major details.
+
+3. **Iterative Writing and Review**:
+   - Writing paragraph bodies may reveal missing elements, necessitating revisions to topic sentences.
+   - Use topic sentences as a basis for summaries or abstracts by compiling them to form an initial draft.
+
+4. **Feedback and Collaboration**:
+   - Collaborators can quickly understand the document's content by reading bolded topic sentences, facilitating efficient feedback and collaboration.
