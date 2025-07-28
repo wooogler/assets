@@ -21,8 +21,8 @@ The following content explains what should be included in abstract.
 2. **Problem Statement**: Include one or two sentences detailing the problem being addressed or studied.
 3. **Study Goal**: Provide one or two sentences explaining the goal of the study, which may involve describing what was done (e.g., using technologies to solve a specific issue).
 4. **Methodology**: Describe the method in one or two sentences.
-5. **Results**: Summarize the (anticipated) results in one or two sentences.
-6. **Implications/Contributions** (optional): Optionally, include one or two sentences explaining the implications or contributions of the work to the world.
+5. **Results**: Summarize the (anticipated) results in one or two sentences. This should be the most interesting AND significant takeaway of your study result. 
+6. **Implications/Contributions** (optional): It is desriable include one or two sentences explaining the implications or contributions of the work to the world. (Now that we know what we found from this study, what does it mean to the world, i.e., people, researchers, future self). 
 
 
 ## How to write Introduction
