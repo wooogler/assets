@@ -7,8 +7,8 @@ The two values that I seriously care about in communication and collaboration ar
 - Install Slack Desktop application instead of using it as a web-browser application.
 - Leave it on all the time when you use computers.
 - Turn off all the notifiactions.
-- Use the channel more than direct message (unless there needs to be a reason why it needs 1:1 conversation)
-Note that slack is not good for archival. All the messages are going to go away at some point. If you would like to archive the conversation use something else (Email).
+- Use the channel more than direct message (unless there needs to be a reason why it needs 1:1 conversation). Note that Slack is not good for archival. All the messages are going to go away at some point. If you would like to archive the conversation, use something else (Email).
+- Students are required to send an email to Prof. Sang when there is a document that needs to be signed, rather than using Slack for such requests.
 
 # Zoom
 
@@ -36,6 +36,9 @@ Email is used when
 - When you would like to involve someone outside the lab in a conversation.
 - When you would like to send a file that needs to be archived.
 - When you would like to foward someone else' email to one of us.
+
+- When you would like to involve someone outside the lab in a conversation.
+- When there is a document that needs to be signed, students are required to send an email to Prof. Sang instead of using Slack for such requests.
 
 # Website
 
