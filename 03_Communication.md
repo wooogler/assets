@@ -2,8 +2,7 @@ The two values that I seriously care about in communication and collaboration ar
 
 # Slack
 
-[Slack](https://www.slack.com) is the primary way for us to communicate remotely. Just to make our communication more instant, context-aware, and interactive. This may chance but I have not found any better solution.
-I would recommend the following (and keep recommending you)
+[Slack](https://www.slack.com) is the primary way for us to communicate remotely. This choice is intended to make our communication more instant, context-aware, and interactive. The use of Slack is currently the preferred solution, although it may change if a better option is found. I would recommend the following (and keep recommending you)
 
 - Install Slack Desktop application instead of using it as a web-browser application.
 - Leave it on all the time when you use computers.
