@@ -14,7 +14,7 @@ The Echolab is located at:**Room 3102**, 220 Gilbert St., Blacksburg, VA 24060
 
 ## Lab Meeting Agendas
 
-Lab meeting agendas can be found at:[https://drive.google.com/drive/folders/1Z-3jMGyImdKIksV8SBAbFsyy2WA732iZ](https://drive.google.com/drive/folders/1Z-3jMGyImdKIksV8SBAbFsyy2WA732iZ)
+Lab meeting agendas can be found at: [https://drive.google.com/drive/folders/1Z-3jMGyImdKIksV8SBAbFsyy2WA732iZ](https://drive.google.com/drive/folders/1Z-3jMGyImdKIksV8SBAbFsyy2WA732iZ)
 
 ## Lab Equipment and Gadgets
 
@@ -55,7 +55,7 @@ If someone is interested in joining Echolab, they should complete this form:[App
 To ensure good academic standing and successful progress as a Ph.D. student:
 
 - **Year 1–2:**- Form a Ph.D. committee with at least four VT faculty members.
-- Failure to meet these may affect funding and standing.- Submit or publish at least one first-authored top-tier HCI paper (e.g., CHI, CSCW, UIST). For which conferences that we target, check out the conference document (link)[https://github.com/wooogler/assets/blob/master/06_Conferences.md]
+- Failure to meet these may affect funding and standing.- Submit or publish at least one first-authored top-tier HCI paper (e.g., CHI, CSCW, UIST). For which conferences that we target, check out the conference document ([link](https://github.com/wooogler/assets/blob/master/06_Conferences.md))
 - **Year 3–4:**- Schedule the preliminary exam after qualifying and forming a full committee.
 - You should have at least two first-authored publications and a clear dissertation narrative.
 - Identify remaining work clearly for your research defense.
