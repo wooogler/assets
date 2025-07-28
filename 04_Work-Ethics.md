@@ -17,6 +17,15 @@ Echolab promotes awareness and accessibility of well-being resources by providin
 
 Echolab at Virginia Tech has established an open-door policy to encourage students to discuss any academic overwhelm, functional difficulties, or concerns about friends with their supervisors. This policy underscores the lab's commitment to student well-being and support. In instances where students' needs surpass what the instructor can provide, there is a practice of guiding them to seek professional help from university resources to ensure they receive appropriate support.
 
+- Cook Counseling for appointments and 24/7 crisis support.
+- Dean of Students' Office for advice and after-hours crisis support.
+- Hokie Wellness for workshops and consultations on health and wellness.
+- Services for Students with Disabilities (SSD) for accommodations and support.
+
+To further support students, Echolab provides a comprehensive list of university resources, which includes:
+
+Echolab promotes awareness and accessibility of these well-being resources by providing a link to a full listing of campus resources on the well-being website. These documented policies and practices highlight Echolab's dedication to creating a supportive environment that prioritizes the mental health and well-being of its students.
+
 ## Ph.D. Working Ethics (Why you should NOT do a Ph.D.)
 
 - A Ph.D. student is a tough job because you have to do lots of different work.
