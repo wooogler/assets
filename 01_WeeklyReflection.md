@@ -36,3 +36,22 @@ mine for 2019-2023: https://docs.google.com/document/d/1EO2XXR6bZZyXOKme2mdsm88c
 - 
 - If you have done nothing for a particular period, submit an empty report. Missing reports completely occasionally is fine as long as it is not regular. Unexpected things happen. However, if it becomes a habit, you want to keep track of this behavior and reflect on it, too.
 - I will review the document and leave comments on the report from time to time, but typically, I don't check them. This is a self-paced/self-regulated activity. However, I read this whenever I must evaluate a student (undergraduate research credits, student annual report, recommendation letter).
+
+# LLM-Based Generative AI Usage Guidelines for Proofreading
+
+- It is acceptable to use a large language model like ChatGPT for proofreading. While it is recommended to proofread their papers thoroughly before submission, whoever use generative AI should ensure that the use of GPT does not alter the meaning or nuance of the original expression or disrupt the consistency of terms used. 
+- If ChatGPT introduces unnecessary complexity or uses overly sophisticated language, the changes should be rejected. Making it easy to read and understand is more important that making it sound like that you are intelligent. 
+- Proofreading should be done paragraph by paragraph rather than in large chunks. This is because to control the amount of content that you have to review after each revision. 
+- Generative AI should NOT be used for proofreading quotes from interviewers or open-ended responses.
+- Do NOT use ChatGPT to generate any portion of the entire initial draft. Write on your own first.
+
+# Best Practices for Writing Abstracts
+
+The following content explains what should be included in abstract. 
+
+1. **Context and Significance**: Begin with one or two sentences explaining the context and significance of the study.
+2. **Problem Statement**: Include one or two sentences detailing the problem being addressed or studied.
+3. **Study Goal**: Provide one or two sentences explaining the goal of the study, which may involve describing what was done (e.g., using technologies to solve a specific issue).
+4. **Methodology**: Describe the method in one or two sentences.
+5. **Results**: Summarize the (anticipated) results in one or two sentences.
+6. **Implications/Contributions** (optional): Optionally, include one or two sentences explaining the implications or contributions of the work to the world.
