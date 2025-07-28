@@ -6,9 +6,9 @@
 
 There is no formal in-person attendance requirement for graduate students at Echolab; however, regular lab attendance is encouraged to enhance peer connections, learn from each other, and establish the sense of community, taking the advantage of the social capital coming from being in a research lab . The lab environment is designed to support productivity, and measures will be implemented if the space is underutilized, as this could lead to requests from other faculty members to use the space. In-person collaboration, while not mandatory, is promoted to create a more productive and socially connected lab atmosphere.
 
-## Ph.D. Working hours (Why you should NOT do a Ph.D.)
+## Ph.D. Working Ethics (Why you should NOT do a Ph.D.)
 
-- A Ph.D. student is a tough job because you have to do lots of different works. See this video for more detail. http://pgbovine.net/PG-Vlog-128-PhD-student-challenging-job.htm
+- A Ph.D. student is a tough job because you have to do lots of different works.  
 - One of the challenges is that you are (typically) getting paid for less than half your working hours.
 - If you are on an assistantship (GTA/GRA), this means that you are getting paid for the work that you do towards a research project or teaching. Typically it is up to 20 hrs a week. Also, note that taking coursework does not count towards your research.
 - Does that mean that your responsibility is done if you work 20 hrs? Totally. Except the fact that you will not be able to graduate and get Ph.D. if you work only 20 hrs a week because you will spend all of your time on doing something that is not going to be your dissertation unless you supervisor is super-rich and your GRA work or GTA work count towards directly your dissertation and you got multiple publications out of it.
