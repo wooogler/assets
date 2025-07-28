@@ -36,19 +36,12 @@ The following content explains what should be included in the abstract.
 
 # Topic Sentence
 
-1. **Topic Sentence Practice**:
-   - The first sentence of any paragraph should ideally be a topic sentence, clearly stating the main idea or focus of that paragraph.
-   - If not used as the first sentence, ensure there is a compelling reason (e.g., storytelling), and consider writing the topic sentence initially and removing it in the final draft.
-   - Use visual distinctions (e.g., bold, underlined, or highlighted) for topic sentences during drafting to enhance clarity and focus for easy skimming by collaborators.
-
-2. **Drafting Process**:
-   - After creating a rough outline, write the topic sentences for each paragraph before developing the paragraph bodies.
-   - Topic sentences should be simple initially and can be refined later.
-   - Review topic sentences to ensure they convey the intended message, flow together, and cover all major details.
-
-3. **Iterative Writing and Review**:
-   - Writing paragraph bodies may reveal missing elements, necessitating revisions to topic sentences.
-   - Use topic sentences as a basis for summaries or abstracts by compiling them to form an initial draft.
-
-4. **Feedback and Collaboration**:
-   - Collaborators can quickly understand the document's content by reading bolded topic sentences, facilitating efficient feedback and collaboration.
+- **Topic Sentence Practice**:- The first sentence of any paragraph should ideally be a topic sentence, clearly stating the main idea or focus of that paragraph.
+- If not used as the first sentence, ensure there is a compelling reason (e.g., storytelling), and consider writing the topic sentence initially and removing it in the final draft.
+- Use visual distinctions (e.g., bold, underlined, or highlighted) for topic sentences during drafting to enhance clarity and focus for easy skimming by collaborators.
+- **Drafting Process**:- After creating a rough outline, write the topic sentences for each paragraph before developing the paragraph bodies.
+- Topic sentences should be simple initially and can be refined later.
+- Review topic sentences to ensure they convey the intended message, flow together, and cover all major details.
+- **Iterative Writing and Review**:- Writing paragraph bodies may reveal missing elements, necessitating revisions to topic sentences.
+- Use topic sentences as a basis for summaries or abstracts by compiling them to form an initial draft.
+- **Feedback and Collaboration**:- Collaborators can quickly understand the document's content by reading bolded topic sentences, facilitating efficient feedback and collaboration.
