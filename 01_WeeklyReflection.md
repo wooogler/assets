@@ -45,7 +45,3 @@ Anybody doing lab research should submit a reflection report ONCE a week. There 
 - Proofreading should be done paragraph by paragraph rather than in large chunks. This is because to control the amount of content that you have to review after each revision.
 - Generative AI should NOT be used for proofreading quotes from interviewers or open-ended responses.
 - Do NOT use ChatGPT to generate any portion of the entire initial draft. Write on your own first.
-
-# Weekly Reflection Reports
-
-- Echolab has established a practice of submitting Weekly Reflection Reports. These reports serve the purpose of public communication among peers rather than private communication between individual team members and managers. The content of these reports should include reflections on past activities and plans for future tasks. It is mandatory for team members to submit these reports on a weekly basis, even if no progress has been made. In such cases, the report should provide an explanation, such as unexpected barriers or reflections on the lack of progress. This practice is designed to emphasize transparency and accountability within the team.
