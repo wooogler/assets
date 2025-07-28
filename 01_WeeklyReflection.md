@@ -45,13 +45,3 @@ mine for 2019-2023: https://docs.google.com/document/d/1EO2XXR6bZZyXOKme2mdsm88c
 - Generative AI should NOT be used for proofreading quotes from interviewers or open-ended responses.
 - Do NOT use ChatGPT to generate any portion of the entire initial draft. Write on your own first.
 
-# Best Practices for Writing Abstracts
-
-The following content explains what should be included in abstract. 
-
-1. **Context and Significance**: Begin with one or two sentences explaining the context and significance of the study.
-2. **Problem Statement**: Include one or two sentences detailing the problem being addressed or studied.
-3. **Study Goal**: Provide one or two sentences explaining the goal of the study, which may involve describing what was done (e.g., using technologies to solve a specific issue).
-4. **Methodology**: Describe the method in one or two sentences.
-5. **Results**: Summarize the (anticipated) results in one or two sentences.
-6. **Implications/Contributions** (optional): Optionally, include one or two sentences explaining the implications or contributions of the work to the world.
