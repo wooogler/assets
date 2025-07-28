@@ -1,7 +1,13 @@
 # Weekly Reflection Report
 
 Anybody doing lab research should submit a reflection report ONCE a week. There is no separate submission system. Instead, it is one Google Docs document that you maintain on your own. The idea of a standup meeting (or scrum/agile development) comes from the software engineering industry. You get together and talk about what you did the day before and what you will do on the particular day. For us, because we don't get together in the same place at the same time (maybe we should?), we do this virtually, submitting a brief report in Google Docs every week.
-The goals of submitting weekly reflection reports are as follows.
+
+- These reports are intended for public communication among peers, not private communication between individual team members and managers.
+- Team members should use the reports to reflect on past activities and plan future tasks.
+- Reports must be submitted weekly, even if no progress has been made. In such cases, the report should include an explanation, such as unexpected barriers or reflections on the lack of progress.
+- The practice emphasizes transparency and accountability within the team.
+
+The goals of submitting weekly reflection reports are as follows:
 
 - self-reflection
 - practicing planning of tasks
@@ -39,9 +45,8 @@ mine for 2019-2023: https://docs.google.com/document/d/1EO2XXR6bZZyXOKme2mdsm88c
 
 # LLM-Based Generative AI Usage Guidelines for Proofreading
 
-- It is acceptable to use a large language model like ChatGPT for proofreading. While it is recommended to proofread their papers thoroughly before submission, whoever use generative AI should ensure that the use of GPT does not alter the meaning or nuance of the original expression or disrupt the consistency of terms used. 
-- If ChatGPT introduces unnecessary complexity or uses overly sophisticated language, the changes should be rejected. Making it easy to read and understand is more important that making it sound like that you are intelligent. 
-- Proofreading should be done paragraph by paragraph rather than in large chunks. This is because to control the amount of content that you have to review after each revision. 
+- It is acceptable to use a large language model like ChatGPT for proofreading. While it is recommended to proofread their papers thoroughly before submission, whoever use generative AI should ensure that the use of GPT does not alter the meaning or nuance of the original expression or disrupt the consistency of terms used.
+- If ChatGPT introduces unnecessary complexity or uses overly sophisticated language, the changes should be rejected. Making it easy to read and understand is more important that making it sound like that you are intelligent.
+- Proofreading should be done paragraph by paragraph rather than in large chunks. This is because to control the amount of content that you have to review after each revision.
 - Generative AI should NOT be used for proofreading quotes from interviewers or open-ended responses.
 - Do NOT use ChatGPT to generate any portion of the entire initial draft. Write on your own first.
-
