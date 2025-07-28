@@ -38,11 +38,9 @@ There is no formal in-person attendance requirement for graduate students at Ech
   - I recommend that you log your time in a paper notebook. (read this: https://www.calnewport.com/blog/2013/12/21/deep-habits-the-importance-of-planning-every-minute-of-your-work-day/) or use some software such as RescueTime.
 - (Condition 3) *Reduce the discrepancy.*: Match the reality with your desire, or adjust your desire to match your reality. Be honest with yourself.
 - If conditions 2 and 3 are satisfied, I would like to believe that there should be no problem at all.  If you are not making any meaningful progress even when conditions 2 and 3 are satisfied, it is probably one of these cases:
-  - Your time tracking is incorrect.  
-  - You are lying (to yourself or to me).
-  - You are not serious about this job (e.g., you desire to work 5 hours a week).
-  - Maybe research is not for you (e.g., if you work 40 hrs a week, but you are not getting anywhere, that means you chose a job that you are not capable of).
-  - (Which one are you?)
+  - Condition 2 is not really met: Your time tracking is incorrect.
+  - Condition 1 is not practical: There may be a misconception about what can be achieved within a limited timeframe. For instance, if your aim is to work only 5 hours a week, this will unlikely result in significant progress.
+  - All conditions met: Maybe research is not for you (e.g., if you work 40 hrs a week, but you are not getting anywhere, that means you chose a job that you are not capable of). 
 
 ## Vacation Policy
 
@@ -51,6 +49,6 @@ There is no formal in-person attendance requirement for graduate students at Ech
 - At the beginning of every academic year (September), you will get 15 vacation days per fiscal year (sorry, no rollover).
 - However, if not noted, I would assume that you will be working and responsive (online), regardless of where you are. For example, without prior notice, I will be expecting you to work during the Winter break or Spring break if you did not request vacation explicitly. (and I don't recommend that. Use vacation. You need a break.)
 - Holidays defined by HR at VT are off by default. (You don't use vacation days on these days.) https://www.hr.vt.edu/benefits/leave/holiday-closing-schedule.html
-- Being on a different physical location does not mean that you are forced to use your vacation day; you can be online and work remotely.
+- Being in a different physical location does not mean that you are forced to use your vacation day; you can be online and work remotely.
 - You do not have to work on weekends or holidays (defined by HR at Virginia Tech), although you can if you would like to distribute your work flexibly. One of the benefits of being an academic is you can choose the times that you work, which means that you can distribute working hours in any way you want. However, I don't expect you to be responsive on weekends or holidays.
 - Request your vacation without a guilty feeling via this form. No questions asked if you follow the policy. https://forms.gle/kwFWymeUjbrp9gVZA
