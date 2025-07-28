@@ -24,3 +24,11 @@ When formulating research questions (RQs), it is essential to ensure that they h
 - Check out the following external resources for guidance on writing discussion sections for research papers, particularly in the context of Human-Computer Interaction (HCI) studies.  
     1. Lennart Nacke's guide on writing a strong discussion section for CHI papers.  https://lennartnacke.com/how-to-write-a-strong-discussion-section-for-your-chi-paper  
      2. D. Buschek's Medium article on writing better discussions for HCI studies. https://dbuschek.medium.com/how-to-write-better-discussions-for-your-hci-study-be851092f351 This practice suggests that Echolab values leveraging external expert advice to enhance the quality of their research outputs.
+ 
+## LLM-Based Generative AI Usage Guidelines for Proofreading
+
+- It is acceptable to use a large language model like ChatGPT for proofreading. While it is recommended to proofread their papers thoroughly before submission, whoever use generative AI should ensure that the use of GPT does not alter the meaning or nuance of the original expression or disrupt the consistency of terms used. 
+- If ChatGPT introduces unnecessary complexity or uses overly sophisticated language, the changes should be rejected. Making it easy to read and understand is more important that making it sound like that you are intelligent. 
+- Proofreading should be done paragraph by paragraph rather than in large chunks. This is because to control the amount of content that you have to carefully review after each revision. 
+- Generative AI should NOT be used for proofreading quotes from intervieweees or open-ended responses from participants.
+- Do NOT use ChatGPT to generate any portion of the entire initial draft. Write on your own first.
