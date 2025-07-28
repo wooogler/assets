@@ -7,6 +7,8 @@ Anybody doing lab research should submit a reflection report ONCE a week. There 
 - Reports must be submitted weekly, even if no progress has been made. In such cases, the report should include an explanation, such as unexpected barriers or reflections on the lack of progress.
 - The practice emphasizes transparency and accountability within the team.
 
+- These reports are intended for public communication among peers, not private communication between individual team members and managers. The content of these reports should include reflections on past activities and plans for future tasks. It is mandatory for team members to submit these reports on a weekly basis, even if no progress has been made. In such cases, the report should provide an explanation, such as unexpected barriers or reflections on the lack of progress. This practice is designed to emphasize transparency and accountability within the team.
+
 # Examples
 
 - Here is Emily Altland's (M.S. 2024) example is my favorite! [link](https://docs.google.com/document/d/170PYIIH5NotZxWtVvJBOmBCSJKPpd04te-xEcTdDO3A/edit?tab=t.0)
