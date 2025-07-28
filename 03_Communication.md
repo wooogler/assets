@@ -45,4 +45,4 @@ Everyone in the lab should create a professional web presence. (the worst possib
 
 If you are a PhD student and do not have a website, that's a big problem. (Once you have websites and then I can start to link those from mine --> which gives you extra visibility --> extra opportunities)
 
-Echolab use Zoom as the standard platform for conducting online meetings. Install the Zoom software and be familiar with it. It has many convenience functions (sharing screen, whiteboard, recording, etc.).
+Echolab at Virginia Tech utilizes Zoom as the standard platform for conducting online meetings. This practice ensures that team members can effectively communicate and collaborate remotely, supporting the lab's focus on fostering empathic interactions through digital means. Install the Zoom software and be familiar with it. It has many convenience functions (sharing screen, whiteboard, recording, etc.).
