@@ -19,7 +19,7 @@ When formulating research questions (RQs), it is essential to ensure that they h
 - Additionally, ensure that the main points and important information are presented early in the document. Avoid saving key insights or valuable content for later sections, as readers may not continue if they do not find the initial paragraphs engaging or informative. This approach helps maintain reader engagement and comprehension, allowing readers to anticipate the progression of ideas and arguments.
 - When formulating research questions, it is essential to ensure that they help readers anticipate the research contribution. This includes understanding what new knowledge will be gained, predicting the methods that will be used to achieve the research goals, and comprehending the significance, purpose, or problem that the research addresses. This practice aids in setting clear expectations for the research outcomes and methodologies.
 
-# Writing Discussions for Research Papers
+## Writing Discussions for Research Papers
 
 - Check out the following external resources for guidance on writing discussion sections for research papers, particularly in the context of Human-Computer Interaction (HCI) studies.  
     1. Lennart Nacke's guide on writing a strong discussion section for CHI papers.  https://lennartnacke.com/how-to-write-a-strong-discussion-section-for-your-chi-paper  
