@@ -9,4 +9,5 @@ In a few cases, the goal of internship is to publish academic papers in HCI venu
 - Facebook research
 - Google research
 - Oculus research lab
+- NAVER AI Lab (note: work permission in Korea may limit this opportunity to individuals with Korean citizenship)
 - Pacific Northwest National Laboratory (PNNL)
