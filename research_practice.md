@@ -13,6 +13,18 @@
 
 When formulating research questions (RQs), it is essential to ensure that they help readers anticipate the research contribution. This includes understanding what new knowledge will be gained, predicting the methods that will be used to achieve the research goals, and comprehending the significance, purpose, or problem that the research addresses. It is crucial that RQs are purpose-driven and not solely centered around the use of tools or technology. The focus should be on the intended outcome or purpose of the technology, rather than the technology itself. For example, instead of asking how a new technology can be used, frame the question around how it can achieve a specific goal or facilitate a process. This practice aids in setting clear expectations for the research outcomes and methodologies.
 
+## Best Practices for Writing Abstracts
+
+The following content explains what should be included in abstract. 
+
+1. **Context and Significance**: Begin with one or two sentences explaining the context and significance of the study.
+2. **Problem Statement**: Include one or two sentences detailing the problem being addressed or studied.
+3. **Study Goal**: Provide one or two sentences explaining the goal of the study, which may involve describing what was done (e.g., using technologies to solve a specific issue).
+4. **Methodology**: Describe the method in one or two sentences.
+5. **Results**: Summarize the (anticipated) results in one or two sentences.
+6. **Implications/Contributions** (optional): Optionally, include one or two sentences explaining the implications or contributions of the work to the world.
+
+
 ## How to write Introduction
 
 - When writing the introduction for a paper, it should include a summarized version of the entire paper. This includes the motivation, goal, method, results, and learnings. The introduction should be comprehensive and transparent, avoiding surprises for the reader. The aim is to make the paper predictable and clear as early as possible. Readers should get a warm fuzzy feeling that they felt like they read the entire paper if they finish reading the introduction to the level so that they don't feel the need to read the rest of them.
