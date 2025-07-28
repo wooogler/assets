@@ -4,7 +4,7 @@
 
 ## Lab Attendance Policy
 
-There is no formal in-person attendance requirement for graduate students at Echolab; however, regular lab attendance is encouraged to enhance peer connections, learn from each other, and establish a sense of community, taking advantage of the social capital coming from being in a research lab . The lab environment is designed to support productivity, and measures will be implemented if the space is underutilized, as this could lead to requests from other faculty members to use the space. In-person collaboration, while not mandatory, is promoted to create a more productive and socially connected lab atmosphere.
+There is no formal in-person attendance requirement for graduate students at Echolab; however, regular lab attendance is encouraged to enhance peer connections, learn from each other, and establish a sense of community, taking advantage of the social capital coming from being in a research lab. The lab environment is designed to support productivity, and measures will be implemented if the space is underutilized, as this could lead to requests from other faculty members to use the space. In-person collaboration, while not mandatory, is promoted to create a more productive and socially connected lab atmosphere.
 
 ## Ph.D. Working Ethics (Why you should NOT do a Ph.D.)
 
@@ -30,17 +30,19 @@ There is no formal in-person attendance requirement for graduate students at Ech
 ## Time management
 
 - This is purely for research hours- Not the hours you spend on other activities (etc., GRA, GTA, coursework, services). X hours in the previous section
-- *Know how much you want to work (Desire).*
-- *Keep track of your time (Reality).*- Know how much you (actually) work.
-- Hint: it is not the number of hours that you use your laptop nor the number of hours that you are in school.
-- Actively keep track of your time.
-- I recommend you to log your time in a paper notebook. (read this: https://www.calnewport.com/blog/2013/12/21/deep-habits-the-importance-of-planning-every-minute-of-your-work-day/)
-- *Reduce the discrepancy.*: Match the reality with your desire, or adjust your desire to match your reality. Be honest with yourself.
-- *I don't care.*: I don't care about your desire(1) until 2 and 3 are satisfied. If I have to care about your desire(1) because you are not making any meaningful progress even if 2 and 3 are satisfied, it is probably one of these cases:- Your time tracking is incorrect.
-- You are lying (to yourself or to me).
-- You are not serious about this job (e.g., you desire to work 5 hours a week).
-- Maybe research is not for you (e.g., if you work 40 hrs a week, but you are not getting anywhere, that means something).
-- (Which one are you?)
+- (Condition 1) *Know how much you want to work (Desire).*
+- (Condition 2) *Keep track of your time (Reality).*
+  - Know how much you (actually) work.
+  - Hint: it is not the number of hours that you use your laptop nor the number of hours that you are in school.
+  - Actively keep track of your time.
+  - I recommend that you log your time in a paper notebook. (read this: https://www.calnewport.com/blog/2013/12/21/deep-habits-the-importance-of-planning-every-minute-of-your-work-day/) or use some software such as RescueTime.
+- (Condition 3) *Reduce the discrepancy.*: Match the reality with your desire, or adjust your desire to match your reality. Be honest with yourself.
+- If conditions 2 and 3 are satisfied, I would like to believe that there should be no problem at all.  If you are not making any meaningful progress even when conditions 2 and 3 are satisfied, it is probably one of these cases:
+  - Your time tracking is incorrect.  
+  - You are lying (to yourself or to me).
+  - You are not serious about this job (e.g., you desire to work 5 hours a week).
+  - Maybe research is not for you (e.g., if you work 40 hrs a week, but you are not getting anywhere, that means you chose a job that you are not capable of).
+  - (Which one are you?)
 
 ## Vacation Policy
 
