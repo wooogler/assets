@@ -36,7 +36,6 @@ Email is used when
 - When you would like to involve someone outside the lab in a conversation.
 - When you would like to send a file that needs to be archived.
 - When you would like to foward someone else' email to one of us.
-
 - When you would like to involve someone outside the lab in a conversation.
 - When there is a document that needs to be signed, students are required to send an email to Prof. Sang instead of using Slack for such requests.
 
