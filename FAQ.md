@@ -1,18 +1,5 @@
 # Echolab Information Document
 
-IRB Writing Support
-
-- Cook Counseling for appointments and 24/7 crisis support.
-- Dean of Students' Office for advice and after-hours crisis support.
-- Hokie Wellness for workshops and consultations on health and wellness.
-- Services for Students with Disabilities (SSD) for accommodations and support.
-
-To further support students, Echolab provides a detailed list of university resources, which includes:
-
-Echolab at Virginia Tech has established an open-door policy that encourages students to discuss any academic overwhelm, functional difficulties, or concerns about friends with their supervisors. This policy underscores the lab's commitment to the well-being and support of its students. In instances where students' needs surpass what the instructor can provide, there is a practice of guiding them to seek professional help from university resources to ensure they receive the appropriate support.
-
-Echolab promotes awareness and accessibility of well-being resources by providing a link to a full listing of campus resources on the well-being website. These documented policies and practices highlight Echolab's dedication to creating a supportive environment that prioritizes the mental health and well-being of its students.
-
 ## Echolab Logos
 
 You can find Echolab logos at the following location:[https://github.com/echo-lab/assets/tree/master/Lab-Logo](https://github.com/echo-lab/assets/tree/master/Lab-Logo)
