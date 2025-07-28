@@ -7,16 +7,11 @@ Anybody doing lab research should submit a reflection report ONCE a week. There 
 - Reports must be submitted weekly, even if no progress has been made. In such cases, the report should include an explanation, such as unexpected barriers or reflections on the lack of progress.
 - The practice emphasizes transparency and accountability within the team.
 
-The goals of submitting weekly reflection reports are as follows:
-
-- self-reflection
-- practicing planning of tasks
-- practicing estimating how long it will take to complete a task
-- public communication of your work with your peers
-You can use it to recall what you have done in the last few days and to plan what you are going to do for the next few days. If you have done nothing, and if you are not going to do anything at all, still submit it with empty parts. We value transparency and accountability; even not being able to make any progress should be something that you planned or something that you can positively reflect upon.
-Here is Emily Altland's (M.S. 2024) example is my favorite! https://docs.google.com/document/d/170PYIIH5NotZxWtVvJBOmBCSJKPpd04te-xEcTdDO3A/edit?tab=t.0
-Here's mine for an example. (*I am a human too; sometimes I miss it) [https://docs.google.com/document/d/1N-ZmQmT8xEsg505AimIq-J7GCQ3U4YikXkNrF3saGZs/edit?tab=t.0#heading=h.vt1c8rlsal9h ](https://docs.google.com/document/d/1N-ZmQmT8xEsg505AimIq-J7GCQ3U4YikXkNrF3saGZs/)
-mine for 2019-2023: https://docs.google.com/document/d/1EO2XXR6bZZyXOKme2mdsm88cS127w5XA_Rot2PvszxE/edit#heading=h.48f1tl4mn89e
+# Examples
+- Here is Emily Altland's (M.S. 2024) example is my favorite! [link](https://docs.google.com/document/d/170PYIIH5NotZxWtVvJBOmBCSJKPpd04te-xEcTdDO3A/edit?tab=t.0)
+- Here's mine. (*I am a human too; sometimes I miss it)
+   - 2024-Current: [link](https://docs.google.com/document/d/1N-ZmQmT8xEsg505AimIq-J7GCQ3U4YikXkNrF3saGZs/)
+   - 2019-2023: [link](https://docs.google.com/document/d/1EO2XXR6bZZyXOKme2mdsm88cS127w5XA_Rot2PvszxE/edit#heading=h.48f1tl4mn89e)
 
 ## Guildline
 
