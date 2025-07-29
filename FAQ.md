@@ -10,6 +10,8 @@ Sample IRB documents are available in [this DRIVE folder](https://drive.google.c
 
 ## Lab Location
 
+The Echolab is located at:**Room 3102**, 220 Gilbert St., Blacksburg, VA 24060
+
 ## Lab Meeting Agendas
 
 Lab meeting agendas can be found at: [https://drive.google.com/drive/folders/1Z-3jMGyImdKIksV8SBAbFsyy2WA732iZ](https://drive.google.com/drive/folders/1Z-3jMGyImdKIksV8SBAbFsyy2WA732iZ)
