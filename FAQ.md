@@ -113,6 +113,8 @@ Office hours are available via this calendar:[Office Hours Calendar](https://cal
 
 Join Zoom meetings via:[https://virginiatech.zoom.us/my/sangwonlee](https://virginiatech.zoom.us/my/sangwonlee)
 
+Echolab at Virginia Tech uses Zoom for conducting remote meetings, providing a convenient platform for collaboration and communication among team members, regardless of their physical location.
+
 ## Sang's Personal Website
 
 [https://sangwonlee.com](https://sangwonlee.com)
