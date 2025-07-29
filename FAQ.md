@@ -111,8 +111,6 @@ Office hours are available via this calendar:[Office Hours Calendar](https://cal
 
 ## Sang's Zoom Link
 
-Join Zoom meetings via:[https://virginiatech.zoom.us/my/sangwonlee](https://virginiatech.zoom.us/my/sangwonlee)
-
 ## Sang's Personal Website
 
 [https://sangwonlee.com](https://sangwonlee.com)
