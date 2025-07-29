@@ -1,6 +1,8 @@
-# Write Research Questions For Every Paper
+# Setting the Research Questions
 
-When formulating research questions (RQs), it is essential to ensure that they help readers anticipate the research contribution. This includes understanding what new knowledge will be gained, predicting the methods that will be used to achieve the research goals, and comprehending the significance, purpose, or problem that the research addresses. It is crucial that RQs are purpose-driven and not solely centered around the use of tools or technology. The focus should be on the intended outcome or purpose of the technology, rather than the technology itself. For example, instead of asking how a new technology can be used, frame the question around how it can achieve a specific goal or facilitate a process. This practice aids in setting clear expectations for the research outcomes and methodologies.
+- When formulating research questions (RQs), it is essential to ensure that they help readers anticipate the research contribution, the method, and the result. This includes understanding what new knowledge will be gained, predicting the methods that will be used to achieve the research goals, and comprehending the significance, purpose, or problem that the research addresses. This practice aids in setting clear expectations for the research outcomes and methodologies.
+- It is crucial that RQs are purpose-driven and not solely centered around the use of tools or technology. The focus should be on the intended outcome or purpose of the technology, rather than the technology itself. For example, instead of asking how a new technology can be used, frame the question around how it can achieve a specific goal or facilitate a process.
+
 
 # Best Practices for Writing Abstracts
 
