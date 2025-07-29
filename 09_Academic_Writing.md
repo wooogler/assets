@@ -51,7 +51,7 @@ The following content explains what should be included in the abstract.
 ## Latex In-line comments command
 
 - To manage inline comments in your academic writing using LaTeX, you can utilize the following commands. This is useful to leave comments in the rendered PDF; it is easier to get attention than comments in Overleaf, which is difficult to keep track of.
-  ```
+```
 \newcommand{\out}[1]{#1} % allows you to display comments
 %\newcommand{\out}[1]{} % Use comment out the line and uncomment this if you want to hide all the in-line comments. 
 \newcommand{\sang}[1]{\out{{\small\textcolor{blue}{\bf [*** Sang: #1]}}}}
