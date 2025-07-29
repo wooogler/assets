@@ -3,7 +3,6 @@
 - When formulating research questions (RQs), it is essential to ensure that they help readers anticipate the research contribution, the method, and the result. This includes understanding what new knowledge will be gained, predicting the methods that will be used to achieve the research goals, and comprehending the significance, purpose, or problem that the research addresses. This practice aids in setting clear expectations for the research outcomes and methodologies.
 - It is crucial that RQs are purpose-driven and not solely centered around the use of tools or technology. The focus should be on the intended outcome or purpose of the technology, rather than the technology itself. For example, instead of asking how a new technology can be used, frame the question around how it can achieve a specific goal or facilitate a process.
 
-
 # Best Practices for Writing Abstracts
 
 An effective practice for writing abstracts for research papers involves an initial drafting process. This can be achieved by copying the first sentence of each chapter and pasting them together. This method serves as a starting point for the abstract, ensuring that it reflects the role of each chapter. It also means that the first sentence of each chapter should effectively summarize its content.
@@ -52,12 +51,10 @@ The following content explains what should be included in the abstract.
 
 ## Latex In-line comments command
 
-- To manage inline comments in your academic writing using LaTeX, you can utilize the following commands. This is useful to leave comments in the rendered PDF, it is easier to get attention than comments in Overleaf, which is difficult to keep track of.
-  ```
-  \newcommand{\out}[1]{#1} % allows you to display comments
-  %\newcommand{\out}[1]{} % Use comment out the line and uncomment this if you want to hide all the in-line comments.
-  \newcommand{\sang}[1]{\out{{\small\textcolor{blue}{\bf [*** Sang: #1]}}}}
-  ```
-
+- To manage inline comments in your academic writing using LaTeX, you can utilize the following commands. This is useful to leave comments in the rendered PDF, it is easier to get attention than comments in Overleaf, which is difficult to keep track of.```
+\newcommand{\out}[1]{#1} % allows you to display comments
+%\newcommand{\out}[1]{} % Use comment out the line and uncomment this if you want to hide all the in-line comments.
+\newcommand{\sang}[1]{\out{{\small\textcolor{blue}{\bf [*** Sang: #1]}}}}
+```
 - I recommend **writing one sentence per line in LaTeX files**. Given one line break in the LaTeX file does not translate to line breaks in the PDF, writing one sentence per line makes it easier to identify overly long sentences. It also aids in communication and locating LaTeX errors, such as referencing specific lines like line 194.
 - It is important to use only the LaTeX packages specified on the ACM website to avoid issues when preparing the camera-ready version of a submission.  For checking approved LaTeX packages, visit: https://authors.acm.org/proceedings/production-information/accepted-latex-packages.
