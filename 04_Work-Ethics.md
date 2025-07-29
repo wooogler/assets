@@ -1,15 +1,6 @@
 ## Mental Health
 
 - How to cope with rejection (https://www.loom.com/share/89bfb10668d94595b265a156126474a5, Credit: Aditya Parameswaran)
-- Echolab encourages open discussions about mental health-related difficulties among team members.
-- Team members at Echolab are willing to discuss and help with any mental health issues that colleagues may be experiencing.
-- Echolab promotes the use of available university resources for mental health support.
-- Specific university resources include:
-- Cook Counseling, which offers appointment scheduling and 24/7 crisis support.
-- The Dean of Students' Office, providing general advice and after-hours crisis support.
-- Hokie Wellness, which offers information about health and wellness workshops and consultations, including the Virginia Tech Recovery Community.
-- Contact information and website links for these resources are available for more details.
-- These practices and resources reflect Echolab's commitment to supporting the mental health and well-being of its team members.
 
 ## Lab Attendance Policy
 
