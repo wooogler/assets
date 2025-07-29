@@ -17,6 +17,15 @@ To further support students, Echolab provides a detailed list of university reso
 
 Echolab promotes awareness and accessibility of well-being resources by providing a link to a full listing of campus resources on the well-being website. These documented policies and practices highlight Echolab's dedication to creating a supportive environment that prioritizes the mental health and well-being of its students.
 
+To further support students, Echolab provides a detailed list of university resources, which includes:
+
+- Cook Counseling for appointments and 24/7 crisis support.
+- Dean of Students' Office for advice and after-hours crisis support.
+- Hokie Wellness for workshops and consultations on health and wellness.
+- Services for Students with Disabilities (SSD) for accommodations and support.
+
+Echolab promotes awareness and accessibility of well-being resources by providing a link to a full listing of campus resources on the well-being website. These documented policies and practices highlight Echolab's dedication to creating a supportive environment that prioritizes the mental health and well-being of its students.
+
 ## Ph.D. Working Ethics (Why you should NOT do a Ph.D.)
 
 - A Ph.D. student is a tough job because you have to do lots of different work.
@@ -72,6 +81,12 @@ Echolab promotes awareness and accessibility of well-being resources by providin
 - Being in a different physical location does not mean that you are forced to use your vacation day; you can be online and work remotely.
 - You do not have to work on weekends or holidays (defined by HR at Virginia Tech), although you can if you would like to distribute your work flexibly. One of the benefits of being an academic is you can choose the times that you work, which means that you can distribute working hours in any way you want. However, I don't expect you to be responsive on weekends or holidays.
 - Echolab at Virginia Tech has an open-door policy that encourages students to discuss issues such as academic overwhelm, functional difficulties, or concerns about friends with their supervisors. This policy underscores the lab's commitment to student well-being and support. If a student's needs surpass what the instructor can provide, there is a practice of guiding them to seek professional help from university resources to ensure they receive appropriate support.
+To further support students, Echolab provides a detailed list of university resources, which includes:
+- Cook Counseling for appointments and 24/7 crisis support.
+- Dean of Students' Office for advice and after-hours crisis support.
+- Hokie Wellness for workshops and consultations on health and wellness.
+- Services for Students with Disabilities (SSD) for accommodations and support.
+Echolab promotes awareness and accessibility of well-being resources by providing a link to a full listing of campus resources on the well-being website. These documented policies and practices highlight Echolab's dedication to creating a supportive environment that prioritizes the mental health and well-being of its students.
 - To further support students, Echolab provides a detailed list of university resources, which includes:
 - Cook Counseling for appointments and 24/7 crisis support.
 - Dean of Students' Office for advice and after-hours crisis support.
