@@ -1,6 +1,8 @@
 # Funding Support for Conference Attendance
 
 - Our lab provides funding support for conference attendance if the student is the first author presenting a paper or poster.
+- There may be some flexibility or exceptions in funding decisions based on proximity and the professor's discretion, as indicated by experiences shared by team members.
+- Funding might be considered for students who are second authors on a poster accepted to a conference, particularly if the conference is nearby.
 
 # Resources
 
