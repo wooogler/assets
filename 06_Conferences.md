@@ -13,7 +13,7 @@
 
 # HCI Conferences that we target
 
-Echolab targets top-tier HCI conferences for submissions, with a primary focus on ACM CHI for any type of HCI work. Specific conferences and journals are selected based on the research topic, including
+hello 3 hello 4
 
 - ACM CSCW for collaboration or social computing
 - ACM UIST for innovative technology or UI for HCI
