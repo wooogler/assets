@@ -1,6 +1,8 @@
 # Funding Support for Conference Attendance
 
 - Our lab provides funding support for conference attendance if the student is the first author presenting a paper or poster.
+- Our lab may provide travel support for conference attendance even if the student is not the first author, particularly if the conference is nearby.
+- Decisions regarding travel funding may be at the discretion of the supervising professor, so students should discuss their specific circumstances with their advisor or the lab's administrative staff to explore potential support options.
 
 # Resources
 
