@@ -45,3 +45,11 @@ The following content explains what should be included in the abstract.
 - **Iterative Writing and Review**:- Writing paragraph bodies may reveal missing elements, necessitating revisions to topic sentences.
 - Use topic sentences as a basis for summaries or abstracts by compiling them to form an initial draft.
 - **Feedback and Collaboration**:- Collaborators can quickly understand the document's content by reading bolded topic sentences, facilitating efficient feedback and collaboration.
+
+# Latex Tips
+
+- To manage inline comments in your academic writing using Latex, you can utilize the following commands:
+
+- To manage inline comments in your academic writing using Latex, you can utilize the following commands:
+
+``` \newcommand{\out}[1]{#1} % allows you to display comments, while commenting out `\newcommand{\out}[1]{}` will hide them. Additionally, the command `\newcommand{\sang}[1]{\out{{\small\textcolor{blue}{\bf [*** Sang: #1]}}}}` formats comments in a specific style. If you need to temporarily remove all comments that start with [Sang:…], comment out the first line and uncomment the second line before compiling, ensuring that you address the comments before deletion.
