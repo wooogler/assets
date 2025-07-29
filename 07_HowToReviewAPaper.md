@@ -1,4 +1,4 @@
-Review Score
+# Review Score
 
 - Reject is something that I give when I think I have to review this paper at least two more rounds because I don't want them to revise the paper and then reject it again.
 - Major revision is something that I give when I think the paper is good but I would like to check if whether they made changes to my request.
