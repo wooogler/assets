@@ -1,8 +1,6 @@
 # Funding Support for Conference Attendance
 
 - Our lab provides funding support for conference attendance if the student is the first author presenting a paper or poster.
-- hello 1
-- hello 2
 
 # Resources
 
@@ -13,7 +11,7 @@
 
 # HCI Conferences that we target
 
-hello 3 hello 4
+Echolab targets top-tier HCI conferences for submissions, with a primary focus on ACM CHI for any type of HCI work. Specific conferences and journals are selected based on the research topic, including
 
 - ACM CSCW for collaboration or social computing
 - ACM UIST for innovative technology or UI for HCI
