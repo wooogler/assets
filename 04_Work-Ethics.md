@@ -2,19 +2,6 @@
 
 - How to cope with rejection (https://www.loom.com/share/89bfb10668d94595b265a156126474a5, Credit: Aditya Parameswaran)
 
-- How to cope with rejection (https://www.loom.com/share/89bfb10668d94595b265a156126474a5, Credit: Aditya Parameswaran)
-
-Echolab at Virginia Tech has an open-door policy that encourages students to discuss issues such as academic overwhelm, functional difficulties, or concerns about friends with their supervisors. This policy underscores the lab's commitment to student well-being and support. If a student's needs surpass what the instructor can provide, there is a practice of guiding them to seek professional help from university resources to ensure they receive appropriate support.
-
-To further support students, Echolab provides a detailed list of university resources, which includes:
-
-- Cook Counseling for appointments and 24/7 crisis support.
-- Dean of Students' Office for advice and after-hours crisis support.
-- Hokie Wellness for workshops and consultations on health and wellness.
-- Services for Students with Disabilities (SSD) for accommodations and support.
-
-Echolab promotes awareness and accessibility of well-being resources by providing a link to a full listing of campus resources on the well-being website. These documented policies and practices highlight Echolab's dedication to creating a supportive environment that prioritizes the mental health and well-being of its students.
-
 ## Lab Attendance Policy
 
 There is no formal in-person attendance requirement for graduate students at Echolab; however, regular lab attendance is encouraged to enhance peer connections, learn from each other, and establish a sense of community, taking advantage of the social capital coming from being in a research lab. The lab environment is designed to support productivity, and measures will be implemented if the space is underutilized, as this could lead to requests from other faculty members to use the space. In-person collaboration, while not mandatory, is promoted to create a more productive and socially connected lab atmosphere.
