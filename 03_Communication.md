@@ -44,3 +44,5 @@ Email is used when
 Everyone in the lab should create a professional web presence. (the worst possible case, LinkedIn but yes, it is the worst) - the lab that I used to be part of required everyone to create a personal website and I thought it was really good idea for students to create a website. (not the one for personal use but for the professional use) Cuz Websites can have something that your resume cannot (multimedia, images, other relevant links) - Please consider making one - it can be simple.
 
 If you are a PhD student and do not have a website, that's a big problem. (Once you have websites and then I can start to link those from mine --> which gives you extra visibility --> extra opportunities)
+
+# Lab Social
