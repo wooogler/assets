@@ -1,4 +1,4 @@
-# How to search relevant papers  (to be continued)
+# How to search relevant papers
 
 # Maintaining Annotated Bibliography
 
