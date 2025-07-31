@@ -55,6 +55,8 @@ The following content explains what should be included in the abstract.
 \newcommand{\out}[1]{#1} % allows you to display comments
 %\newcommand{\out}[1]{} % Use comment out the line and uncomment this if you want to hide all the in-line comments.
 \newcommand{\sang}[1]{\out{{\small\textcolor{blue}{\bf [*** Sang: #1]}}}}
+
 ```
 - I recommend **writing one sentence per line in LaTeX files**. Given one line break in the LaTeX file does not translate to line breaks in the PDF, writing one sentence per line makes it easier to identify overly long sentences. It also aids in communication and locating LaTeX errors, such as referencing specific lines like line 194.
 - It is important to use only the LaTeX packages specified on the ACM website to avoid issues when preparing the camera-ready version of a submission.  For checking approved LaTeX packages, visit: https://authors.acm.org/proceedings/production-information/accepted-latex-packages.
+```
