@@ -6,6 +6,7 @@ Reading paper can be fun but recalling papers are not. If you do not synthesize 
 Therefore, I will ask everyone who does research with me to maintain an annotated bibliography (or something equivalent) per a project. If you have any preference (or existing methods), the annotated biblography will be a simple Google Docs document that contains a collections of paper and the length of which grows over time. In the long run, I would recommend a bibliography software such as EndNote, (which is free for Virginia Tech students as of now) as long as you can share it with me. A stack of papers with manual annotation is pretty good but it is not a good way for collaboration. However, other types of collaborative systems works e.g. Github, a Wordpress, Medium, etc. I would recommend something that requires minimal transaction costs.
 
 Each entry on one paper should include following information:
+
 - Title of the paper
 - Authors of the paper
 - the most official url of the paper (e.g. ACM DL)
