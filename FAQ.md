@@ -1,5 +1,7 @@
 # Echolab Information Document
 
+Echolab is dedicated to creating collaborative systems aimed at improving productivity within organizations. Their research emphasizes the integration of innovative solutions that facilitate teamwork and streamline processes, ultimately enhancing overall efficiency.
+
 ## Echolab Logos
 
 You can find Echolab logos at the following location:[https://github.com/echo-lab/assets/tree/master/Lab-Logo](https://github.com/echo-lab/assets/tree/master/Lab-Logo)
