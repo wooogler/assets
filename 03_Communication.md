@@ -45,7 +45,6 @@ Everyone in the lab should create a professional web presence. (the worst possib
 
 If you are a PhD student and do not have a website, that's a big problem. (Once you have websites and then I can start to link those from mine --> which gives you extra visibility --> extra opportunities)
 
-
 # Lab Social
 
 - Our lab typically hosts one lab social per each semester to foster community and engagement. Members are invited to organize various types of events, such as game nights, dinners, or outings. A designated individual, often referred to as a 'Social Czar' or 'Social Czarina,' is responsible for the planning and execution of these events. This individual can also request reimbursement for any expenses incurred during the organization of the events. Additionally, organizations may coordinate dinners at conferences with alumni if there is a significant attendance from members at the conference.
