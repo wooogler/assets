@@ -47,3 +47,5 @@ There is no formal in-person attendance requirement for graduate students at Ech
 - Being in a different physical location does not mean that you are forced to use your vacation day; you can be online and work remotely.
 - You do not have to work on weekends or holidays (defined by HR at Virginia Tech), although you can if you would like to distribute your work flexibly. One of the benefits of being an academic is you can choose the times that you work, which means that you can distribute working hours in any way you want. However, I don't expect you to be responsive on weekends or holidays.
 - Request your vacation without a guilty feeling via this form. No questions asked if you follow the policy. https://forms.gle/kwFWymeUjbrp9gVZA
+- Once the vacation request survey is filled out, it will send you an email that contains your response.
+- If you would like to know how many days that you have used so far, you can search the email receipt to keep track of what you entered previously.
