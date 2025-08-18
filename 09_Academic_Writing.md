@@ -59,7 +59,6 @@ The following content explains what should be included in the abstract.
 - In latex, any text wrapped by `%TC:ignore` and `%TC:endignore` will not be included in the word count. This can be used to exclude sections such as the title page and abstract from being counted, especially when the conference presents a word count limit (e.g., 12K for CHI)
 - More information is available here: https://www.overleaf.com/learn/how-to/Is_there_a_way_to_run_a_word_count_that_doesn%27t_include_LaTeX_commands%3F
 
-```
+## Other tips
 - I recommend **writing one sentence per line in LaTeX files**. Given one line break in the LaTeX file does not translate to line breaks in the PDF, writing one sentence per line makes it easier to identify overly long sentences. It also aids in communication and locating LaTeX errors, such as referencing specific lines like line 194.
-- It is important to use only the LaTeX packages specified on the ACM website to avoid issues when preparing the camera-ready version of a submission.  For checking approved LaTeX packages, visit: https://authors.acm.org/proceedings/production-information/accepted-latex-packages.
-```
+- It is important to use only the LaTeX packages specified on the ACM website to avoid issues when preparing the camera-ready version of a submission.  For checking approved LaTeX packages, visit: https://authors.acm.org/proceedings/production-information/accepted-latex-packages. 
