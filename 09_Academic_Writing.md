@@ -52,9 +52,9 @@ The following content explains what should be included in the abstract.
 ## Latex In-line comments command
 
 - To manage inline comments in your academic writing using LaTeX, you can utilize the following commands. This is useful to leave comments in the rendered PDF, it is easier to get attention than comments in Overleaf, which is difficult to keep track of.```
-\newcommand{\out}[1]{#1} % allows you to display comments
-%\newcommand{\out}[1]{} % Use comment out the line and uncomment this if you want to hide all the in-line comments.
-\newcommand{\sang}[1]{\out{{\small\textcolor{blue}{\bf [*** Sang: #1]}}}}
+\newcommand{\out}[1]{#1} % allows you to display comments %\newcommand{\out}[1]{} % Use comment out the line and uncomment this if you want to hide all the in-line comments. \newcommand{\sang}[1]{\out{{\small\textcolor{blue}{\bf [*** Sang: #1]}}}}
+- In latex, any text wrapped by `%TC:ignore` and `%TC:endignore` will not be included in the word count. This can be used to exclude sections such as the title page and abstract from being counted, especially when the conference presents a word count limit (e.g., 12K for CHI)
+- More information is available here: https://www.overleaf.com/learn/how-to/Is_there_a_way_to_run_a_word_count_that_doesn%27t_include_LaTeX_commands%3F
 
 ```
 - I recommend **writing one sentence per line in LaTeX files**. Given one line break in the LaTeX file does not translate to line breaks in the PDF, writing one sentence per line makes it easier to identify overly long sentences. It also aids in communication and locating LaTeX errors, such as referencing specific lines like line 194.
