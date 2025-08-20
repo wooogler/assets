@@ -51,8 +51,13 @@ The following content explains what should be included in the abstract.
 
 ## Latex In-line comments command
 
-- To manage inline comments in your academic writing using LaTeX, you can utilize the following commands. This is useful to leave comments in the rendered PDF, it is easier to get attention than comments in Overleaf, which is difficult to keep track of.```
-\newcommand{\out}[1]{#1} % allows you to display comments %\newcommand{\out}[1]{} % Use comment out the line and uncomment this if you want to hide all the in-line comments. \newcommand{\sang}[1]{\out{{\small\textcolor{blue}{\bf [*** Sang: #1]}}}}
+- To manage inline comments in your academic writing using LaTeX, you can utilize the following commands. This is useful to leave comments in the rendered PDF, it is easier to get attention than comments in Overleaf, which is difficult to keep track of.
+``` \newcommand{\out}[1]{#1} % allows you to display comments %\newcommand{\out}[1]{} % Use comment out the line and uncomment this if you want to hide all the in-line comments. \newcommand{\sang}[1]{\out{{\small\textcolor{blue}{\bf [*** Sang: #1]}}}} ```
+- When defining labels within a figure, you can use the `labelphantom` command for sequential referencing such as 1a, 1b, etc. This is particularly useful for referring to numbered annotations in UI system descriptions.
+``` \newcommand{\circledigit}[1]{\textbf{\normalsize{\textsf{\textcircled{\footnotesize{#1}}}}}}
+\usepackage{subcaption} \newcommand{\labelphantom}[1]{% \parbox{0pt}{\phantomsubcaption\label{#1}}% } ```
+- Example usage of `labelphantom` in a figure:
+``` \label{fig:results:disclosure} \labelphantom{fig:results:disclosure:explore} \labelphantom{fig:results:disclosure:label} \labelphantom{fig:results:disclosure:find} \labelphantom{fig:results:disclosure:record} \labelphantom{fig:results:disclosure:share} \end{figure*} ```
 
 ## Word count exclusion
 
@@ -60,5 +65,6 @@ The following content explains what should be included in the abstract.
 - More information is available here: https://www.overleaf.com/learn/how-to/Is_there_a_way_to_run_a_word_count_that_doesn%27t_include_LaTeX_commands%3F
 
 ## Other tips
+
 - I recommend **writing one sentence per line in LaTeX files**. Given one line break in the LaTeX file does not translate to line breaks in the PDF, writing one sentence per line makes it easier to identify overly long sentences. It also aids in communication and locating LaTeX errors, such as referencing specific lines like line 194.
-- It is important to use only the LaTeX packages specified on the ACM website to avoid issues when preparing the camera-ready version of a submission.  For checking approved LaTeX packages, visit: https://authors.acm.org/proceedings/production-information/accepted-latex-packages. 
+- It is important to use only the LaTeX packages specified on the ACM website to avoid issues when preparing the camera-ready version of a submission.  For checking approved LaTeX packages, visit: https://authors.acm.org/proceedings/production-information/accepted-latex-packages.
