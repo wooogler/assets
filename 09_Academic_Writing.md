@@ -49,15 +49,35 @@ The following content explains what should be included in the abstract.
 
 # Latex Tips
 
-## Latex In-line comments command
+## Latex In-line Comments Command
 
 - To manage inline comments in your academic writing using LaTeX, you can utilize the following commands. This is useful to leave comments in the rendered PDF, it is easier to get attention than comments in Overleaf, which is difficult to keep track of.
-``` \newcommand{\out}[1]{#1} % allows you to display comments %\newcommand{\out}[1]{} % Use comment out the line and uncomment this if you want to hide all the in-line comments. \newcommand{\sang}[1]{\out{{\small\textcolor{blue}{\bf [*** Sang: #1]}}}} ```
+```
+\newcommand{\out}[1]{#1} % allows you to display comments
+%\newcommand{\out}[1]{} % Use comment out the line and uncomment this if you want to hide all the in-line comments.
+\newcommand{\sang}[1]{\out{{\small\textcolor{blue}{\bf [*** Sang: #1]}}}}
+```
+
+## Latex In-line Circled Numbers
+
 - When defining labels within a figure, you can use the `labelphantom` command for sequential referencing such as 1a, 1b, etc. This is particularly useful for referring to numbered annotations in UI system descriptions.
-``` \newcommand{\circledigit}[1]{\textbf{\normalsize{\textsf{\textcircled{\footnotesize{#1}}}}}}
-\usepackage{subcaption} \newcommand{\labelphantom}[1]{% \parbox{0pt}{\phantomsubcaption\label{#1}}% } ```
+
+```
+\newcommand{\circledigit}[1]{\textbf{\normalsize{\textsf{\textcircled{\footnotesize{#1}}}}}}
+\usepackage{subcaption} 
+\newcommand{\labelphantom}[1]{% \parbox{0pt}{\phantomsubcaption\label{#1}}% } 
+```
+
 - Example usage of `labelphantom` in a figure:
-``` \label{fig:results:disclosure} \labelphantom{fig:results:disclosure:explore} \labelphantom{fig:results:disclosure:label} \labelphantom{fig:results:disclosure:find} \labelphantom{fig:results:disclosure:record} \labelphantom{fig:results:disclosure:share} \end{figure*} ```
+```
+\label{fig:results:disclosure} 
+\labelphantom{fig:results:disclosure:explore} 
+\labelphantom{fig:results:disclosure:label} 
+\labelphantom{fig:results:disclosure:find} 
+\labelphantom{fig:results:disclosure:record} 
+\labelphantom{fig:results:disclosure:share} 
+\end{figure*} 
+```
 
 ## Word count exclusion
 
