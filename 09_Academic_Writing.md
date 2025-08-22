@@ -93,4 +93,4 @@ The following content explains what should be included in the abstract.
 
 # Writing Style Guidelines
 
-- In academic writing, the use of active voice is recommended. This approach enhances clarity and directness in communication. Passive voice is generally discouraged as it can obscure the subject of the sentence, making it harder for readers to understand the main point being conveyed. Adhering to these guidelines can improve the overall quality and effectiveness of academic writing.
+- In academic writing, the use of the active voice is recommended. This approach enhances clarity and directness in communication. Passive voice is generally discouraged as it can obscure the subject of the sentence. (It's okay to use "we" in a subject, indicating the authors of the paper.) 
