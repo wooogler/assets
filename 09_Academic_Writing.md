@@ -52,6 +52,7 @@ The following content explains what should be included in the abstract.
 ## Latex In-line Comments Command
 
 - To manage inline comments in your academic writing using LaTeX, you can utilize the following commands. This is useful to leave comments in the rendered PDF, it is easier to get attention than comments in Overleaf, which is difficult to keep track of.
+
 ```
 \newcommand{\out}[1]{#1} % allows you to display comments
 %\newcommand{\out}[1]{} % Use comment out the line and uncomment this if you want to hide all the in-line comments.
@@ -69,6 +70,7 @@ The following content explains what should be included in the abstract.
 ```
 
 - Example usage of `labelphantom` in a figure:
+
 ```
 \label{fig:results:disclosure} 
 \labelphantom{fig:results:disclosure:explore} 
@@ -88,3 +90,7 @@ The following content explains what should be included in the abstract.
 
 - I recommend **writing one sentence per line in LaTeX files**. Given one line break in the LaTeX file does not translate to line breaks in the PDF, writing one sentence per line makes it easier to identify overly long sentences. It also aids in communication and locating LaTeX errors, such as referencing specific lines like line 194.
 - It is important to use only the LaTeX packages specified on the ACM website to avoid issues when preparing the camera-ready version of a submission.  For checking approved LaTeX packages, visit: https://authors.acm.org/proceedings/production-information/accepted-latex-packages.
+
+# Writing Style Guidelines
+
+- In academic writing, the use of active voice is recommended. This approach enhances clarity and directness in communication. Passive voice is generally discouraged as it can obscure the subject of the sentence, making it harder for readers to understand the main point being conveyed. Adhering to these guidelines can improve the overall quality and effectiveness of academic writing.
