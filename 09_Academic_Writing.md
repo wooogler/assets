@@ -93,4 +93,11 @@ The following content explains what should be included in the abstract.
 
 # Writing Style Guidelines
 
-- In academic writing, the use of the active voice is recommended. This approach enhances clarity and directness in communication. Passive voice is generally discouraged as it can obscure the subject of the sentence. (It's okay to use "we" in a subject, indicating the authors of the paper.) 
+- In academic writing, the use of the active voice is recommended. This approach enhances clarity and directness in communication. Passive voice is generally discouraged as it can obscure the subject of the sentence. (It's okay to use "we" in a subject, indicating the authors of the paper.)
+- **Present Tense**: Use for stating facts or truths that are not dynamic. Avoid using present tense to describe findings from a study, as it may imply generalization, which can be challenged by reviewers.
+- **Past Tense**: Use for describing what occurred during the study, including actions taken and participants' statements.
+- **Future Tense**: Avoid using future tense. For future work, use phrases like "we plan to."
+- It is acceptable to revise verbal quotes to improve readability. This includes removing repeated words and filler words such as "uh," "um," "like," "you know," and "kind of."
+- Example of quote revision:
+- **Before**: "Sometimes, if you’re tired, you might decide not to stand up. If I bike in the morning or something like that, and my legs are like. Like, yeah, like a little, like, uh, tired. So I decided, like, okay, even though I might want to, to stand up, I’m going to just stay, like."
+- **After**: "Sometimes, if you’re tired, you might decide not to stand up. If I bike in the morning, and my legs are tired, I decided, even though I might want to stand up, I’m going to just stay [seated]."
