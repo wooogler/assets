@@ -1,6 +1,7 @@
 # Funding Support for Conference Attendance
 
 - Our lab provides funding support for conference attendance if the student is the first author presenting a paper or poster.
+- Echolab may provide travel support for conference attendance even if the student is the second author, particularly if the conference is nearby. This support is contingent upon the professor's discretion and the potential value of the experience for the student.
 
 # Resources
 
