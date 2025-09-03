@@ -93,7 +93,7 @@ The following content explains what should be included in the abstract.
 
 # Writing Style Guidelines
 
-## Use Active Voice. 
+## Use Active Voice.
 
 - In academic writing, the use of the active voice is recommended. This approach enhances clarity and directness in communication. Passive voice is generally discouraged as it can obscure the subject of the sentence. (It's okay to use "we" in a subject, indicating the authors of the paper.)
 
@@ -106,6 +106,9 @@ The following content explains what should be included in the abstract.
 ## Quoting Interview Transcripts
 
 - It is acceptable to revise verbal quotes to improve readability. This includes removing repeated words and filler words such as "uh," "um," "like," "you know," and "kind of."
-- Example of quote revision:
-   - **Before**: "Sometimes, if you’re tired, you might decide not to stand up. If I bike in the morning or something like that, and my legs are like. Like, yeah, like a little, like, uh, tired. So I decided, like, okay, even though I might want to, to stand up, I’m going to just stay, like."
-   - **After**: "Sometimes, if you’re tired, you might decide not to stand up. If I bike in the morning, and my legs are tired, I decided, even though I might want to stand up, I’m going to just stay [seated]."
+- Example of quote revision:- **Before**: "Sometimes, if you’re tired, you might decide not to stand up. If I bike in the morning or something like that, and my legs are like. Like, yeah, like a little, like, uh, tired. So I decided, like, okay, even though I might want to, to stand up, I’m going to just stay, like."
+- **After**: "Sometimes, if you’re tired, you might decide not to stand up. If I bike in the morning, and my legs are tired, I decided, even though I might want to stand up, I’m going to just stay [seated]."
+
+# Keyword Selection Strategy for Paper Submissions
+
+- When selecting keywords in the Paper Submission System (PCS), it is important to choose them strategically. Keywords should not only represent the work accurately but also be selected in a way that increases the likelihood of attracting reviewers who will appreciate the work. The keywords are used by PCS to suggest reviewers for the paper. Therefore, it is crucial to consider who would be interested in the paper and who might be critical of it, and to select keywords that align with the expertise of those potential reviewers. For example, if you choose a qualitative research method only because your paper has an interview in it, people who have a rigorous background in qualitative methods are likely to be assigned to the paper.  So strategically, you may not want not to choose that option in the hope that you will not get a reviewer who identified themselves as a qualitative method expert.
