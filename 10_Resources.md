@@ -8,5 +8,5 @@ Additionally, it is noted that some other labs utilize third-party services such
 
 # Coffee machine
 
-![1.00](assets/08b84561f57f226f5c6c9539189dd4dab731f3db.webp)
+![Product photo of a De'Longhi Magnifica Evo automatic coffee/espresso machine shown front-on, with a milk frother on the left, a cup under the dispenser, and additional iced coffee and espresso drinks…](assets/08b84561f57f226f5c6c9539189dd4dab731f3db.webp)
 
