@@ -48,6 +48,8 @@ There is no formal in-person attendance requirement for graduate students at Ech
 
 * I recommend that you log your time in a paper notebook. (read this: <https://www.calnewport.com/blog/2013/12/21/deep-habits-the-importance-of-planning-every-minute-of-your-work-day/>) or use some software such as RescueTime.
 
+* ![deepwork-2-625px](https://calnewport.com/wp-content/uploads/2013/12/deepwork-2-625px.jpg "deepwork-2-625px")
+
 * (Condition 3) *Reduce the discrepancy.*: Match the reality with your desire, or adjust your desire to match your reality. Be honest with yourself.
 
 * If conditions 2 and 3 are satisfied, I would like to believe that there should be no problem at all.  If you are not making any meaningful progress even when conditions 2 and 3 are satisfied, it is probably one of these cases:- Condition 2 is not really met: Your time tracking is incorrect.
