@@ -8,3 +8,5 @@ Additionally, it is noted that some other labs utilize third-party services such
 
 # Coffee machine
 
+![1.00](assets/08b84561f57f226f5c6c9539189dd4dab731f3db.webp)
+
