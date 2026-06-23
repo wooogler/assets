@@ -48,7 +48,7 @@ There is no formal in-person attendance requirement for graduate students at Ech
 
 * I recommend that you log your time in a paper notebook. (read this: <https://www.calnewport.com/blog/2013/12/21/deep-habits-the-importance-of-planning-every-minute-of-your-work-day/>) or use some software such as RescueTime.
 
-![1.00](assets/554b51b2c0fc250460c83806b9b685d76ad98bea.webp)
+![A photo of a lined notebook page showing a rough hand-drawn layout sketch, annotated with printed labels “original plan” and “revised plan” and arrows pointing to two different sketched sections. The…](assets/554b51b2c0fc250460c83806b9b685d76ad98bea.webp)
 
 * (Condition 3) *Reduce the discrepancy.*: Match the reality with your desire, or adjust your desire to match your reality. Be honest with yourself.
 
