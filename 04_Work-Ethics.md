@@ -64,7 +64,7 @@ There is no formal in-person attendance requirement for graduate students at Ech
 
 * A graduate student that I advise gets 15 working days off per year. One needs to tell me 2 X N working days before the off-days, where N is the number of days that you are going to use for vacation. For example, if you are going to take a day off on Monday, you have to tell me at the latest Thursday (2 working days before Monday).
 
-* At the beginning of every calendar year (January), you will get 15 vacation days per fiscal year (sorry, no rollover).
+* At the beginning of every calendar year (January), you will get 20 vacation days per fiscal year (sorry, no rollover).
 
 * However, if not noted, I would assume that you will be working and responsive (online), regardless of where you are. For example, without prior notice, I will be expecting you to work during the Winter break or Spring break if you did not request vacation explicitly. (and I don't recommend that. Use vacation. You need a break.)
 
