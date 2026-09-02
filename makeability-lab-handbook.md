@@ -1,4 +1,4 @@
-# **![](assets/561eb3597c7d452ff13783c083e2c6104dce7656.png)**
+# **![Black V-shaped outline filled with multicolored triangular facets on both ends.](assets/561eb3597c7d452ff13783c083e2c6104dce7656.png)**
 
 # **Makeability Lab Handbook**
 
@@ -35,11 +35,11 @@ This lab handbook was inspired and informed by:
 
 Thank you to Leah Findlater, Steven Goodman, Emma McDonnell and lab alumni Matt Mauriello, Seokbin Kang, and Majeed Kazemitibaar for their feedback and comments.
 
-**![](assets/85d5e49022d9a89c581ac4f512666ca5aa08a066.png)** The Makeability Logo was designed by Makeability Lab member and maker extraordinaire [Liang He](http://www.lianghe.me/).
+**![Abstract icon of three overlapping diamond shapes in black, cyan, and magenta with a yellow square at the center.](assets/85d5e49022d9a89c581ac4f512666ca5aa08a066.png)** The Makeability Logo was designed by Makeability Lab member and maker extraordinaire [Liang He](http://www.lianghe.me/).
 
 ## **License**
 
-This handbook is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) ![](assets/2a4c2b37a2f7bcc70b542b26687fdc2fb2746c27.png)![](assets/fe528079c92dda3aa3fd377dc8c573fb8aec6b61.png)![](assets/3d2536d842f9ae4134f065e8758713081d4854c7.png) similar to those by [Aly Lab](https://github.com/alylab/labmanual), [Gilbert Syllabus](https://docs.google.com/document/d/11D3kHElzS2HQxTwPqcaTnU5HCJ8WGE5brTXI4KLf4dM/edit), *etc.*
+This handbook is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) ![Dark, nearly black square image.](assets/2a4c2b37a2f7bcc70b542b26687fdc2fb2746c27.png)![Dark, nearly black image with no visible details.](assets/fe528079c92dda3aa3fd377dc8c573fb8aec6b61.png)![Dark abstract image with faint diagonal streaks on a black background.](assets/3d2536d842f9ae4134f065e8758713081d4854c7.png) similar to those by [Aly Lab](https://github.com/alylab/labmanual), [Gilbert Syllabus](https://docs.google.com/document/d/11D3kHElzS2HQxTwPqcaTnU5HCJ8WGE5brTXI4KLf4dM/edit), *etc.*
 
 # **Table of Contents**
 
@@ -361,7 +361,7 @@ This handbook is licensed under [CC BY-NC 4.0](https://creativecommons.org/licen
 
 # **HCI at UW**
 
-![](assets/3385fbd66caffe4d745b860da4ef1c2e5a7fffdd.png)\
+![Grid of many headshot portraits with names and roles labeled beneath each person.](assets/3385fbd66caffe4d745b860da4ef1c2e5a7fffdd.png)\
 Figure. HCI-related faculty at UW split across departments, including the Allen School, HCDE, the iSchool, Art+Design, Communication, and less prevalently, Electrical Engineering, Mechanical Engineering, Architecture, Medicine, and more. Image from 2025 (things may have changed).
 
 The Makeability Lab is proudly part of the broader Human-Computer Interaction (HCI) community at UW—one of the top HCI research institutions in the world[^1], with leading scholars in nearly every subdiscipline from accessibility and health informatics to social computing and disinformation. UW is also one of the largest and most intellectually diverse HCI/design communities: 50+ faculty and 150 students across the [Allen School](https://www.cs.washington.edu/), [HCDE](https://www.hcde.washington.edu/), the [iSchool](https://ischool.uw.edu/), [Art+Design](https://art.washington.edu/), [Communication](https://com.uw.edu/), and less prevalently, Electrical Engineering, Mechanical Engineering, Medicine, and more. You can and should leverage this enormous pool of people and expertise: take classes, seek or spur cross-disciplinary collaborations, get to know this amazing community!
@@ -394,7 +394,7 @@ The MHCI+D website provides a [helpful comparison tool](https://mhcid.washington
 
 ## **Industry Partnerships**
 
-![](assets/f041542e0cc94ad8f78085b125beb269dcfa19f1.png)\
+![Map of Seattle-area company locations and founders, with many labeled tech firms.](assets/f041542e0cc94ad8f78085b125beb269dcfa19f1.png)\
 Figure. A selected map of leading technology and non-profit companies only a short bike ride or bus ride away from UW. Image from 2023.
 
 UW HCI also benefits from the vibrant technology industry and startup culture in the Seattle area. UWers frequently collaborate with industry partners at Google, Facebook, AI2, Adobe, Apple, Microsoft, and beyond—all partially enabled and sustained by close proximity. Such industry presence in Seattle also makes it easy to do off-cycle internships or to take a class led by an industry expert.
@@ -536,7 +536,7 @@ We have three types of regularly scheduled meetings in the Makeability Lab, each
 
 While valuable both functionally and socially, meetings are *expensive* in terms of personnel time as well as the disruptive cost to focused work. Thus, we must use meetings wisely. If you are not prepared to meet or have no significant agenda items—which may happen due to the natural ebb and flow of graduate school (*e.g.,* you are studying for course finals)—I am always happy to cancel a meeting and interact asynchronously over email. As alumnus Majeed Kazemitabaar said, “*on MakerWear, we had great over-the-email collaborations that were very productive, including feedback on GitHub issues, sending video updates for demos and critique. We used meetings for brainstorming, designing studies, and to tackle high-level challenges.”*
 
-![1.00](assets/69b62cd9d2fc918c9a9d84e6f7f62fe3d8ccf122.png)
+![Humorous conference room cartoon with one person repeating a phrase on a whiteboard.](assets/69b62cd9d2fc918c9a9d84e6f7f62fe3d8ccf122.png)
 
 ## **Project Meetings**
 
@@ -619,7 +619,7 @@ Every student is different, every timeline is different. However, you must make 
 
 Here’s a visualization of the Allen School timeline:
 
-![1.00](assets/158b0e7316182c56e553377274cc90b11341a61f.png)
+![PhD timeline showing milestones from Year 1 to Final Exam.](assets/158b0e7316182c56e553377274cc90b11341a61f.png)
 
 To contextualize the above timeline, I’ve enumerated some of my expectations and tips:
 
@@ -659,7 +659,7 @@ I recall hearing an interview question [Desney Tan](https://www.microsoft.com/en
 
 In Greenberg \*et al.’\*s *[Sketching User Experiences: The Workbook](https://alliance-primo.hosted.exlibrisgroup.com/permalink/f/kjtuig/CP71185020590001451)*, the authors enumerate a number of brainstorming and ideation strategies. I’m particularly fond of thinking about the ideation process as a tree where you begin with a problem and brainstorm solutions (see figure below)—as many ideas as possible at first. The tree width corresponds to the breadth and diversity of ideas (attempting to get the right design) and the tree depth corresponds to the iteration of ideas (attempting to get the design right). The ideation and prototyping process is generative: ideas beget other ideas—some of which are derivations, others which are new limbs on the tree. At some point in a research/design process, one must switch from broadening ideas to converging and iterating on top ideas. This process relates to Paul Laseau’s notion of elaboration and reduction in design: generate as many ideas as possible, these are opportunities then reduce to ideas worth pursuing via iteration and refinement.
 
-![1.00](assets/1a88637ea9649794bfe507a6bf81b9073d27a0b0.png)
+![Diagram of ideation branching and convergence with highlighted “two best ideas.”](assets/1a88637ea9649794bfe507a6bf81b9073d27a0b0.png)
 
 Figure. A figure based on [Greenberg](https://alliance-primo.hosted.exlibrisgroup.com/permalink/f/kjtuig/CP71185020590001451) *[et al](https://alliance-primo.hosted.exlibrisgroup.com/permalink/f/kjtuig/CP71185020590001451)*[.’s Sketching User Experiences: The Workbook](https://alliance-primo.hosted.exlibrisgroup.com/permalink/f/kjtuig/CP71185020590001451), which describes the ideation process as a tree. Figure created by Jon Froehlich for his HCI/design courses and informed also by [Tohidi](https://doi.org/10.1145/1182475.1182487) *[et al.](https://doi.org/10.1145/1182475.1182487)*[, NordiCHI’06](https://doi.org/10.1145/1182475.1182487). See [this slide deck](https://www.dropbox.com/s/66gzb6i7bciz2hr/HCID501_L04-Ideation.pptx?dl=0).
 
@@ -938,7 +938,7 @@ To help you draft an initial letter, here are some [examples](https://drive.goog
 
 The [Allen School BS/MS form](https://admissions.cs.washington.edu/bsms/recommendations/) looks like the following (see Figure) and allows for a brief plaintext letter and a drop-down selection of *Not Recommended, Uncertain, Recommended, Strongly Recommended, and Most Strongly Recommended.* Recommendations are typically due at the end of June.
 
-![1.00](assets/104f507d3c1bfaf1fe986a7127acbdb18cb75b76.png)
+![Form for comments and recommendation with a checked waiver notice and a Save button.](assets/104f507d3c1bfaf1fe986a7127acbdb18cb75b76.png)
 
 ## **Coursework**
 
@@ -1209,7 +1209,7 @@ We write most of our papers in Microsoft Word and Overleaf. You can get Office 3
 
 For UI mockups and figure making for papers, students prefer [Figma](https://figma.com/) or Adobe Creative Suite. Unfortunately, the latter is expensive. If you only need to use Adobe tools infrequently—*e.g.,* to make a PDF accessible—then you can use the Adobe Creative Cloud machine in CSE622, which is a shared resource.
 
-![](assets/63b392786a9ee92cb81f5b194802465a8c8991be.png)![](assets/9a9ce0685e1789de2117c83640a94cab831cd469.png)
+![Office study room viewed through a window, with desks, computers, chairs, and a door sign labeled CSE622.](assets/63b392786a9ee92cb81f5b194802465a8c8991be.png)![Desktop workstation with monitor, keyboard, mouse, printer, and tower PC on a wooden desk.](assets/9a9ce0685e1789de2117c83640a94cab831cd469.png)
 
 ### *Laptops*
 
