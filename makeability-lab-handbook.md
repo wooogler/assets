@@ -1,4 +1,4 @@
-# **![](assets/561eb3597c7d452ff13783c083e2c6104dce7656.png)**
+# **![Black V-shaped outline filled with multicolored triangular facets on both ends.](assets/561eb3597c7d452ff13783c083e2c6104dce7656.png)**
 
 # **Makeability Lab Handbook** {#makeability-lab-handbook}
 
@@ -38,11 +38,11 @@ This lab handbook was inspired and informed by:
 
 Thank you to Leah Findlater, Steven Goodman, Emma McDonnell and lab alumni Matt Mauriello, Seokbin Kang, and Majeed Kazemitibaar for their feedback and comments. 
 
-**![](assets/85d5e49022d9a89c581ac4f512666ca5aa08a066.png)** The Makeability Logo was designed by Makeability Lab member and maker extraordinaire [Liang He](http://www.lianghe.me/).
+**![Abstract icon of three overlapping diamond shapes in black, cyan, and magenta with a yellow square at the center.](assets/85d5e49022d9a89c581ac4f512666ca5aa08a066.png)** The Makeability Logo was designed by Makeability Lab member and maker extraordinaire [Liang He](http://www.lianghe.me/).
 
 ## **License** {#license}
 
-This handbook is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) ![](assets/2a4c2b37a2f7bcc70b542b26687fdc2fb2746c27.png)![](assets/fe528079c92dda3aa3fd377dc8c573fb8aec6b61.png)![](assets/3d2536d842f9ae4134f065e8758713081d4854c7.png) similar to those by [Aly Lab](https://github.com/alylab/labmanual), [Gilbert Syllabus](https://docs.google.com/document/d/11D3kHElzS2HQxTwPqcaTnU5HCJ8WGE5brTXI4KLf4dM/edit), *etc.*
+This handbook is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) ![Dark, nearly black square image.](assets/2a4c2b37a2f7bcc70b542b26687fdc2fb2746c27.png)![Dark, nearly black image with no visible details.](assets/fe528079c92dda3aa3fd377dc8c573fb8aec6b61.png)![Dark abstract image with faint diagonal streaks on a black background.](assets/3d2536d842f9ae4134f065e8758713081d4854c7.png) similar to those by [Aly Lab](https://github.com/alylab/labmanual), [Gilbert Syllabus](https://docs.google.com/document/d/11D3kHElzS2HQxTwPqcaTnU5HCJ8WGE5brTXI4KLf4dM/edit), *etc.*
 
 # **Table of Contents** {#table-of-contents}
 
@@ -364,7 +364,7 @@ This handbook is licensed under [CC BY-NC 4.0](https://creativecommons.org/licen
 
 # **HCI at UW** {#hci-at-uw}
 
-![1.00](assets/3385fbd66caffe4d745b860da4ef1c2e5a7fffdd.png)
+![Grid of many headshot portraits with names and roles labeled beneath each person.](assets/3385fbd66caffe4d745b860da4ef1c2e5a7fffdd.png)
 
 Figure. HCI-related faculty at UW split across departments, including the Allen School, HCDE, the iSchool, Art+Design, Communication, and less prevalently, Electrical Engineering, Mechanical Engineering, Architecture, Medicine, and more. Image from 2025 (things may have changed).
 
@@ -398,7 +398,7 @@ The MHCI+D website provides a [helpful comparison tool](https://mhcid.washington
 
 ## **Industry Partnerships** {#industry-partnerships}
 
-![1.00](assets/f041542e0cc94ad8f78085b125beb269dcfa19f1.png)
+![Map of Seattle-area company locations and founders, with many labeled tech firms.](assets/f041542e0cc94ad8f78085b125beb269dcfa19f1.png)
 
 Figure. A selected map of leading technology and non-profit companies only a short bike ride or bus ride away from UW. Image from 2023.
 
@@ -625,7 +625,7 @@ Every student is different, every timeline is different. However, you must make 
 
 Here’s a visualization of the Allen School timeline:
 
-![1.00](assets/158b0e7316182c56e553377274cc90b11341a61f.png)
+![PhD timeline showing milestones from Year 1 to Final Exam.](assets/158b0e7316182c56e553377274cc90b11341a61f.png)
 
 To contextualize the above timeline, I’ve enumerated some of my expectations and tips:
 
@@ -665,7 +665,7 @@ I recall hearing an interview question [Desney Tan](https://www.microsoft.com/en
 
 In Greenberg \*et al.’\*s *[Sketching User Experiences: The Workbook](https://alliance-primo.hosted.exlibrisgroup.com/permalink/f/kjtuig/CP71185020590001451)*, the authors enumerate a number of brainstorming and ideation strategies. I’m particularly fond of thinking about the ideation process as a tree where you begin with a problem and brainstorm solutions (see figure below)—as many ideas as possible at first. The tree width corresponds to the breadth and diversity of ideas (attempting to get the right design) and the tree depth corresponds to the iteration of ideas (attempting to get the design right). The ideation and prototyping process is generative: ideas beget other ideas—some of which are derivations, others which are new limbs on the tree. At some point in a research/design process, one must switch from broadening ideas to converging and iterating on top ideas. This process relates to Paul Laseau’s notion of elaboration and reduction in design: generate as many ideas as possible, these are opportunities then reduce to ideas worth pursuing via iteration and refinement. 
 
-![1.00](assets/1a88637ea9649794bfe507a6bf81b9073d27a0b0.png)
+![Diagram of ideation branching and convergence with highlighted “two best ideas.”](assets/1a88637ea9649794bfe507a6bf81b9073d27a0b0.png)
 
 Figure. A figure based on [Greenberg](https://alliance-primo.hosted.exlibrisgroup.com/permalink/f/kjtuig/CP71185020590001451) *[et al](https://alliance-primo.hosted.exlibrisgroup.com/permalink/f/kjtuig/CP71185020590001451)*[.’s Sketching User Experiences: The Workbook](https://alliance-primo.hosted.exlibrisgroup.com/permalink/f/kjtuig/CP71185020590001451), which describes the ideation process as a tree. Figure created by Jon Froehlich for his HCI/design courses and informed also by [Tohidi](https://doi.org/10.1145/1182475.1182487) *[et al.](https://doi.org/10.1145/1182475.1182487)*[, NordiCHI’06](https://doi.org/10.1145/1182475.1182487). See [this slide deck](https://www.dropbox.com/s/66gzb6i7bciz2hr/HCID501_L04-Ideation.pptx?dl=0).
 
@@ -944,7 +944,7 @@ To help you draft an initial letter, here are some [examples](https://drive.goog
 
 The [Allen School BS/MS form](https://admissions.cs.washington.edu/bsms/recommendations/) looks like the following (see Figure) and allows for a brief plaintext letter and a drop-down selection of *Not Recommended, Uncertain, Recommended, Strongly Recommended, and Most Strongly Recommended.* Recommendations are typically due at the end of June.
 
-![1.00](assets/104f507d3c1bfaf1fe986a7127acbdb18cb75b76.png)
+![Form for comments and recommendation with a checked waiver notice and a Save button.](assets/104f507d3c1bfaf1fe986a7127acbdb18cb75b76.png)
 
 ## **Coursework**  {#coursework}
 
@@ -1217,7 +1217,7 @@ We write most of our papers in Microsoft Word and Overleaf. You can get Office 3
 
 For UI mockups and figure making for papers, students prefer [Figma](https://figma.com/) or Adobe Creative Suite. Unfortunately, the latter is expensive. If you only need to use Adobe tools infrequently—*e.g.,* to make a PDF accessible—then you can use the Adobe Creative Cloud machine in CSE622, which is a shared resource.
 
-![](assets/63b392786a9ee92cb81f5b194802465a8c8991be.png)![](assets/9a9ce0685e1789de2117c83640a94cab831cd469.png)
+![Office study room viewed through a window, with desks, computers, chairs, and a door sign labeled CSE622.](assets/63b392786a9ee92cb81f5b194802465a8c8991be.png)![Desktop workstation with monitor, keyboard, mouse, printer, and tower PC on a wooden desk.](assets/9a9ce0685e1789de2117c83640a94cab831cd469.png)
 
 ### *Laptops* {#laptops}
 
@@ -1305,7 +1305,7 @@ Kind reminder: you should *never* write research code without continuously backi
 
 Here are links to logos for the [Makeability Lab](https://www.dropbox.com/sh/ol8u5o8sy4tw89g/AACTn2B61RVXYKs3zh4yWioJa?dl=0), the [Allen School and UW](https://www.dropbox.com/sh/iwdvv1ypc72avuu/AAAIk3lzWoxLyBkC26GuAEYsa?dl=0), and [UW CREATE](https://www.dropbox.com/scl/fo/7o1d2fbebi0kvmh2grcnu/h?rlkey=y9577tst7wfc2c3mz3w5ygeyz\&dl=0). The logos for Project Sidewalk are in the [Project Sidewalk Design GitHub repo](https://github.com/ProjectSidewalk/Design). Logos should be used on the first and last slide. Here are some [ideas/templates](https://www.dropbox.com/scl/fi/vfi48v4tma6wzmet77v68/MakeabilityLab-TalkBranding.pptx?rlkey=p38fu8uz23x22zruudpbbppax\&dl=0).
 
-![1.00](assets/15b5850e0769fcfc09faf4c0b5dc6c5d856c69bd.png)
+![Children playing a tabletop game in a classroom with a large title overlay.](assets/15b5850e0769fcfc09faf4c0b5dc6c5d856c69bd.png)
 
 ## **Lab IRB Applications** {#lab-irb-applications}
 
@@ -1377,7 +1377,7 @@ Like with research papers, I prefer submitting a fewer number of grants per year
 
 I am happy to share any grant that I’ve written. If you are interested in grant writing and want to be involved in the process, please let me know.
 
-![1.00](assets/bb899575222164d0a442b06fda867f2051ee6a43.png)
+![Grid of institutional and company logos](assets/bb899575222164d0a442b06fda867f2051ee6a43.png)
 
 Figure. We are grateful to our funding sponsors. Without funding, we could not perform our research. Image from 2024. See <https://makeabilitylab.cs.washington.edu/>. 
 
@@ -1764,7 +1764,7 @@ To help us both when requesting a letter please:
 
 Importantly, to ensure that my words convey an honest assessment, I do not release letters to students. If I’ve supported you with a letter, I’d love for you to stay in touch. I greatly enjoy hearing from students and continuing to support them in their careers.
 
-![](assets/d2ba75bc91c658580bf645c8d0599df503f5a383.png)**Figure.** To protect the integrity of the letter writing process, you must waive your right to access my recommendation in the online forms or I will not be able to upload my letter.
+![Waiver options for the right to access the recommendation letter](assets/d2ba75bc91c658580bf645c8d0599df503f5a383.png)**Figure.** To protect the integrity of the letter writing process, you must waive your right to access my recommendation in the online forms or I will not be able to upload my letter.
 
 ## **PhD students mentoring ugrads and LoRs** {#phd-students-mentoring-ugrads-and-lors}
 
@@ -2191,7 +2191,7 @@ Creating accessible videos is important and a key ethic of our lab. It is best t
 
 # **Preparing and presenting posters** {#preparing-and-presenting-posters}
 
-![](assets/fe79a5280bff761536a22e995272f79c527647c3.png)\
+![Large conference poster hall with rows of booths and attendees](assets/fe79a5280bff761536a22e995272f79c527647c3.png)\
 **Figure.** An example research poster fair (at the Transportation Research Board conference in Washington DC). How will you make your research poster stand out? What will make someone stop at your poster to learn more?
 
 With a research poster, you have roughly 36”x60” to capture your viewer’s attention and communicate your research. My view is that the research poster is an **advertisement for your paper,** an advertisement for you (yes, you! And the team!), and should be designed as a **visual aid** **complement** to you standing there and communicating your research. Some tips:
@@ -2206,11 +2206,11 @@ With a research poster, you have roughly 36”x60” to capture your viewer’s 
 
 ## **Good and Bad Poster Designs** {#good-and-bad-poster-designs}
 
-![](assets/5afeff5995fad6dbea1acbf8919a3bd79de904eb.png)**Figure.** A famous poster redesign by Michigan State University doctoral student Mike Morrison. Image from [NPR](https://www.npr.org/sections/health-shots/2019/06/11/729314248/to-save-the-science-poster-researchers-want-to-kill-it-and-start-over?t=1575482924723). Notice how it draws you in from afar. And then once you walk close, you can read a bullet-pointed overview augmented by visuals.
+![Person presenting a poster with a large yellow panel and left-side sections for intro, methods, and results.](assets/5afeff5995fad6dbea1acbf8919a3bd79de904eb.png)**Figure.** A famous poster redesign by Michigan State University doctoral student Mike Morrison. Image from [NPR](https://www.npr.org/sections/health-shots/2019/06/11/729314248/to-save-the-science-poster-researchers-want-to-kill-it-and-start-over?t=1575482924723). Notice how it draws you in from afar. And then once you walk close, you can read a bullet-pointed overview augmented by visuals.
 
 Here is but a small selection of some of my favorite posters from the Makeability Lab:
 
-| ![](assets/2a2d348fe04646ad9a89671a502fed5c99a07043.png)                                                                                                                                                                                                                                                                      | <br />                                                                                                                                                                                                                                                            | <br />                                                                                                                                                                                                                                                                                                                                                    |
+| ![Boowis overview diagram showing mental, physical, and interactive components with example visuals.](assets/2a2d348fe04646ad9a89671a502fed5c99a07043.png)                                                                                                                                                                                                                                                                      | <br />                                                                                                                                                                                                                                                            | <br />                                                                                                                                                                                                                                                                                                                                                    |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [BodyVis poster](https://www.dropbox.com/scl/fi/ahbbp4mo486b0iev6f9kj/2013-Norooz-BodyVis-SilverSpringMiniMakerFaire-Poster.pdf?rlkey=bfca3l28lq0ecsoe0eap8aiur\&dl=0) by UMD MS student Leyla Norooz (great use of graphics & colors; however, fonts are too thin and insufficient contrast with text colors and background) | [Ondule poster](https://www.dropbox.com/scl/fi/yguays7swyal27jap340u/2017-Liang-UIST-Ondule_Poster.pdf?rlkey=a8073fd8goqu3a9kuzijp2zmk\&dl=0) by UW PhD student Liang He (again, great use of graphics, clearly communicates research, maybe a bit visually busy) | [Social Fabric Fitness poster](https://www.dropbox.com/scl/fi/vgb57rian7lmase6b4q2t/2014-Mauriello-CHI-SocialFabricFitness-Poster.pdf?rlkey=l5bjia4x9x83dyn3px1c0pkgs\&dl=0) by Jon E. Froehlich (in retrospect, too much text; should have eliminated 80% of the text and bullet pointed but the poster does draw you in with the graphic and question)  |
 
